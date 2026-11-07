@@ -1,0 +1,25 @@
+{
+  "name": "Tefsir Usulü · Giray Akademi",
+  "short_name": "Tefsir Usulü",
+  "description": "Ünite ünite konu anlatımı, tablolar, kavram kartları ve testler",
+  "start_url": "/tefsir_usulu/",
+  "scope": "/tefsir_usulu/",
+  "display": "standalone",
+  "background_color": "#f7f3ea",
+  "theme_color": "#1f5a45",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "/tefsir_usulu/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/tefsir_usulu/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

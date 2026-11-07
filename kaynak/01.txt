@@ -1,0 +1,130 @@
+# Tefsir Usûlü ve Temel Kaynakları
+> Tefsir ve usûl kavramları, Kur'an'ın neden tefsire ihtiyaç duyduğu, Hz. Peygamber'in tefsiri ve tefsir usûlünün asli ve tâlî kaynakları.
+
+## Tefsirin sözlük ve terim anlamı
+- Tefsir kelimesi «فسر» veya «سفر» kökünden «تفعيل» vezninde bir mastardır.
+| Kök | Sözlük anlamı | Keşfin türü
+| «فسر» | Bir şeyi açıklamak, ortaya çıkarmak, kapalı bir şeyi açmak | Manevi keşif
+| «سفر» | Aydınlatmak, ortaya çıkarmak, üzerindeki örtüyü kaldırmak | Maddi, zahiri keşif
+@ سَفَرَتِ الْمَرْأَةُ سُفُورًا إِذَا أَلْقَتْ خِمَارَهَا عَنْ وَجْهِهَا | Kadın yüzündeki örtüyü kaldırdığında "seferat" denir.
+- **Emin el-Hûlî:** Her iki kelimenin mastarı da «keşfetmek ve ortaya çıkarmak» anlamlarını taşır. Ancak «سفر» kelimesinde maddi, zahiri bir keşif söz konusu iken «فسر» kelimesinde manevi bir keşif söz konusudur.
+: Tefsir = Kur'an'daki kapalılık durumlarını giderip, onun ilahî murada uygun biçimde anlaşılmasını sağlamaktır.
+! Tefsir aynı zamanda anlamlandırmaktır (5N 1K). Örnek: Fil suresinde Allah'ın yardımıyla kuşların fillere galip gelmesi.
+### Kâtib Çelebi'nin tefsir tarifi
+@ عِلْمٌ بَاحِثٌ عَنْ مَعْنَى نَظْمِ الْقُرْآنِ، بِحَسَبِ الطَّاقَةِ الْبَشَرِيَّةِ، وَبِحَسَبِ مَا تَقْتَضِيهِ الْقَوَاعِدُ الْعَرَبِيَّةُ | Beşerî güç ölçüsünde ve Arap dili kaidelerinin gerektirdiği ölçüde Kur'an nazmının manasını araştıran ilimdir.
+* Tefsir «فسر» (manevi keşif) veya «سفر» (maddi keşif) kökünden tef'îl vezninde mastardır.
+* Tefsir: Kur'an'daki kapalılıkları giderip ilahî murada uygun anlaşılmasını sağlamak.
+
+## Kur'an apaçık (mübîn) olduğu hâlde neden tefsire ihtiyaç duyulur?
+?? Kur'an mübîn olmasına rağmen neden tefsire ihtiyaç duyuluyor? | Bir şey mutlak anlamda ne açıktır ne de kapalıdır; onu açık veya kapalı yapan muhatabın konumudur. Sahabenin Kur'an'ı anlama diye bir problemi yoktu, çünkü Kur'an'ın doğrudan muhatabıydı. Sonraki nesil ise kendini Kur'an'a muhatap kılıyordu. Söz aynı, muhatap farklı.
+~ Aynı sınava giren iki öğrenci düşünün: Soruların kolaylığı veya zorluğu bu iki öğrencinin çalışmalarına göre değişir.
+### Muhatap kitlenin değişimiyle değişenler
+1. **Yeni muhatapların dilinde önemli değişmeler olmuştu.** Dil canlı bir organizmadır.
+- **Anlam daralması:** Akdeniz kelimesi. Osmanlı'da Bahr-ı Sefîd (Akdeniz) bugünkü Akdeniz ve Ege için kullanılıyordu; Atatürk «Ordular ilk hedefiniz Akdenizdir» derken Ege kıyılarını kastediyordu. Ceza kelimesi de örnektir.
+- **Anlam kayması:** Mülk kelimesi.
+2. **Arap olmayanların Kur'an'a muhatap kılınması.**
+3. **Yeni muhataplar ayetin nüzulüne sebep olan ortama yabancıydılar.**
+@ لَيْسَ عَلَى الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جُنَاحٌ فِيمَا طَعِمُوا إِذَا مَا اتَّقَوْا وَآمَنُوا وَعَمِلُوا الصَّالِحَاتِ ثُمَّ اتَّقَوْا وَآمَنُوا ثُمَّ اتَّقَوْا وَأَحْسَنُوا وَاللَّهُ يُحِبُّ الْمُحْسِنِينَ | Mâide 5/93
+4. **İlk muhatap nesil ayetlere 23 yılda tedricen muhatap olmuştu.** Sonrakiler tüm ayetlere aynı anda muhatap oldular; dolayısıyla zaman ve şartlara göre inen ayetler arasında çelişki olduğunu zannettiler. Örnek: savaş–barış durumu.
+5. **Fetihlerle yeni kültürler İslam'a dahil oldu.** Kendi kültürlerini Kur'an'a onaylatmaya çalıştılar; bu saptırıcı yorumlara karşı ayetlerin doğru tefsir edilmesi ihtiyaç hâlini aldı.
+* Açıklık-kapalılık muhatabın konumuna bağlıdır; sahabe doğrudan muhataptı.
+* Tefsir ihtiyacının 5 sebebi: dil değişimi, Arap olmayanlar, nüzul ortamına yabancılık, ayetlere toptan muhatap olma, yeni kültürlerin saptırıcı yorumları.
+
+## Hz. Peygamber'in tefsir ettiği âyetlerin miktarı
+| | 1. görüş: Tümünü tefsir etmiştir | 2. görüş: Çok azını tefsir etmiştir
+| Kimin görüşü | İbn Teymiyye | Gazâlî, Süyûtî
+| Delil | Tümünü tefsir etmeseydi beyan görevini yerine getirmemiş olurdu. | Hz. Âişe: Hz. Peygamber Cebrail'in kendisine öğrettiği sınırlı sayıdaki ayet haricinde tefsir etmezdi.
+| Delil | İbn Mes'ud ve Hz. Osman: Resûlullah'tan 10 ayetteki ilmi kavramadıkça diğer ayetlere geçmezdik. | Sahabe tefsirde ihtilaf etmiştir; hepsi açıklansaydı ihtilaf olmazdı.
+| Delil | Dünya ve ahiret saadetini temin eden kitabın tamamının tefsir edilmemesi makul değildir. | Allah kullarının düşünmesini istemektedir.
+| Delil | Hz. Ömer: Ribâ son inen ayetlerdendir, Resûlullah onu tefsir etmeden vefat etti. Demek ki diğerlerini tefsir etmiştir. | İbn Abbas için «Allah'ım onu dinde fakih eyle ve ona te'vili öğret» duası; bütün ayetleri açıklasaydı bu duanın anlamı kalmazdı.
+| Delil | | Her ayetin tefsirine dair rivayet elimizde mevcut değil; hepsi tefsir edilseydi bu tefsirler elimize ulaşırdı.
+### Netice
+- Hz. Peygamber mükellef olduğu kadarıyla Kur'an'ı tefsir etmiştir.
+- Rivayetler içerisinde Hz. Peygamber'in tefsir miktarı **%4**'e tekabül eder. Bu tespit İbn Ebî Hâtim'in tefsirindeki **16283** rivayet esas alınarak yapılmıştır.
+* Tümünü tefsir etti: İbn Teymiyye. Çok azını tefsir etti: Gazâlî, Süyûtî.
+* Hz. Peygamber mükellef olduğu kadar tefsir etmiştir; rivayetlerde oranı %4 (İbn Ebî Hâtim'in 16283 rivayeti esas alınarak).
+
+## Hz. Peygamber'in tefsirlerinden bazı örnekler
+1. **Zulüm: şirk.**
+@ الَّذِينَ آمَنُوا وَلَمْ يَلْبِسُوا إِيمَانَهُمْ بِظُلْمٍ أُولَئِكَ لَهُمُ الْأَمْنُ وَهُمْ مُهْتَدُونَ | En'âm 6/82
+@ إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ | Ayetteki "zulüm" şirk olarak açıklanmıştır.
+2. **Sebîl: azık ve binek.**
+@ وَلِلَّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ إِلَيْهِ سَبِيلًا | Âl-i İmrân 3/97
+@ فَقَالَ رَجُلٌ: يَا رَسُولَ اللَّهِ، مَا السَّبِيلُ؟ قَالَ: الزَّادُ وَالرَّاحِلَةُ | Bir adam "Ey Allah'ın Resulü, sebîl nedir?" dedi. "Azık ve binektir" buyurdu.
+3. **Kevser: cennette bir nehir.**
+@ أَخْرَجَهُ أَحْمَدُ وَمُسْلِمٌ عَنْ أَنَسٍ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: الْكَوْثَرُ نَهَرٌ أَعْطَانِيهِ رَبِّي فِي الْجَنَّةِ | "Kevser, Rabbimin bana cennette verdiği bir nehirdir."
+4. **Tevbe-i nasûh.**
+@ قَالَ مُعَاذُ بْنُ جَبَلٍ: يَا رَسُولَ اللَّهِ، مَا التَّوْبَةُ النَّصُوحُ؟ قَالَ: أَنْ يَنْدَمَ الْعَبْدُ عَلَى الذَّنْبِ الَّذِي أَصَابَ فَيَعْتَذِرَ إِلَى اللَّهِ ثُمَّ لَا يَعُودَ إِلَيْهِ كَمَا لَا يَعُودُ اللَّبَنُ إِلَى الضَّرْعِ | Kulun işlediği günaha pişman olup Allah'tan özür dilemesi, sonra sütün memeye dönmediği gibi o günaha bir daha dönmemesidir.
+5. **Mağdûb ve dâllîn.** Gazaba uğrayanlar Yahudiler, sapkın olanlar ise Hristiyanlardır.
+@ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ | Fâtiha 1/7
+6. **Kuvvet: atıcılık.** Hz. Peygamber minberde iken şöyle buyurdu:
+@ وَأَعِدُّوا لَهُمْ مَا اسْتَطَعْتُمْ مِنْ قُوَّةٍ، أَلَا إِنَّ الْقُوَّةَ الرَّمْيُ | Enfâl 8/60 · "Dikkat edin, kuvvet atıcılıktır." (Müslim)
+* Hz. Peygamber'in tefsir örnekleri: zulüm = şirk; sebîl = azık ve binek; Kevser = cennette nehir; mağdûb = Yahudiler, dâllîn = Hristiyanlar; kuvvet = atıcılık.
+
+## "Usûl" kelimesinin sözlük ve terim anlamı
+- **Sözlük:** Usûl, "asl" kelimesinin çoğuludur. Temel, esas, dayanak, kök, kaide ve delil gibi anlamlara gelir.
+- **Terim:** Hükmü tek başına sabit olup başkasının kendi üzerine bina edildiği şeydir. Yani herhangi bir ilim dalıyla ilgili bilgilerin sistemli bir şekilde yerleştirilmesinde kullanılan belli esas ve metotlardır.
+: Tefsir Usûlü = Kur'an'ın anlaşılması maksadıyla belirlenen bir takım ilke ve esaslarla Kur'an ayetlerinin tefsir edilmesine yardımcı olan ilimdir.
+- **Diğer tanım:** Kur'an'ın manalarının açıklanmasının ve yorumlanmasının temellerini gösteren ilimdir.
+### Tefsir ilim midir?
+| Âlim | Görüşü
+| **Molla Fenârî** ('Aynü'l-a'yân mukaddimesinde) | Tefsir ilminin müstakil bir usulü ve yeterli sayıda küllî kaidesi olmadığı kanaatindedir; bu sebeple tefsiri ilim olarak görmez.
+| **Kâfiyecî** (Molla Fenârî'nin talebesi) | Tefsiri başlı başına bir ilim olarak değerlendirir; et-Teysîr fî kavâidi ilmi't-tefsîr adlı eserinde tefsir ilmindeki küllî kaidelere işaret eder.
+* Usûl, "asl"ın çoğuludur: temel, esas, kök, kaide, delil.
+* Molla Fenârî tefsiri ilim saymaz; talebesi Kâfiyecî ise müstakil ilim sayar.
+
+## Asli kaynaklar
+: Asli Kaynak = Herhangi bir eserin ilim ehli tarafından itibar görüp başvuru kaynağı olarak kabul edilmiş olmasıdır.
+### A. Müstakil usûl eserleri
+| Müellif | Vefat | Eser | Öne çıkan özellik
+| Hâris el-Muhâsibî | 243/857 | el-Akl ve Fehmü'l-Kur'ân | Alanının **en eski** usûl kitabı. Kur'an'ın faziletleri, üslubu, muhkem-müteşâbih, nesih, halku'l-Kur'an konularını işler.
+| el-Hûfî | 430/1038 | el-Burhân fî Ulûmi'l-Kur'ân | **"Ulûmü'l-Kur'ân" tabirinin kullanıldığı ilk eser.** İ'câzü'l-Kur'ân, garîbü'l-Kur'ân, i'râbü'l-Kur'ân gibi ilimlere yer verir.
+| İbnü'l-Cevzî | 597/1200 | Fünûnü'l-Efnân | İki ana bölüm: birincisi tefsir usulü, ikincisi dil konuları. Usûl konuları büyük titizlikle ele alınmıştır.
+| et-Tûfî | 716/1316 | el-İksîr fî Kavâidi İlmi't-Tefsîr | Kur'an'ın ihtiva ettiği ilimler, fesahat ve belagat ilimlerinin türleri, Kur'an üslubu, müfred ve mürekkeb lafızlar.
+| İbn Teymiyye | 728/1327 | Mukaddime fî Usûli't-Tefsîr | Usûl eserlerine duyulan ihtiyaçla başlar; Hz. Peygamber'in açıklamaları, selef ve sahabenin tercihleri, Kur'an'ı doğru tefsir etmenin yolları.
+| ez-Zerkeşî | 794/1392 | el-Burhân fî Ulûmi'l-Kur'ân | Muhteva zenginliği, kaynak çokluğu ve konuların işlenişi bakımından tefsir usûlü kaynakları arasında **1. sırada**. Her konunun girişinde o konuda yazılmış eserleri tanıtır.
+| el-Kâfiyecî | 879/1478 | et-Teysîr fî Kavâidi İlmi't-Tefsîr | Süyûtî'nin hocası. İki bölüm: tefsir-te'vil, dirayet tefsiri, müfessirin muhtaç olduğu ilimler, muhkem-müteşâbih, esbâb-ı nüzûl / nesih, müşkilü'l-Kur'ân, tefsir tarihi. İsmail Cerrahoğlu tercüme etmiştir.
+| es-Süyûtî | 911/1505 | el-İtkân fî Ulûmi'l-Kur'ân | Muhteva bakımından zengin; Zerkeşî'nin el-Burhân'ından çok alıntı vardır. "Kur'an İlimleri Ansiklopedisi" adıyla tercüme edilmiştir (Sakıp Yıldız, Hüseyin Avni Çelik).
+| Şah Veliyyullah ed-Dihlevî | 1176/1764 | el-Fevzü'l-Kebîr fî Usûli't-Tefsîr | Aslı Farsça, 5 bölüm. Bilhassa nesih: Süyûtî'nin mensuh dediği 20 ayetten yalnızca **5**'inde nesih olduğunu belirtir. Mehmed Sofuoğlu tercüme etmiştir.
+! Kâfiyecî lakabını, İbnü'l-Hâcib'in **el-Kâfiye** adlı eseriyle çokça meşgul olduğu için almıştır.
+### B. Tefsir mukaddimeleri
+- Bazı müfessirler telif ettikleri tefsir kitaplarının mukaddimelerinde tefsir usûlünü ele almışlardır.
+| Müellif | Vefat | Eser | Mukaddimede işlenen konular
+| et-Taberî | 310/923 | Câmiu'l-Beyân an Te'vîli Âyi'l-Kur'ân | Yedi harf, kıraat, sure ve ayetlerin isimleri.
+| er-Râğıb el-İsfahânî | 502/1108 | Mukaddimetü't-Tefsîr | Bakara suresinin 220 ayetini tefsir eder. Tefsir-te'vil, hakikat-mecaz, umum-husus, nesih, muhkem-müteşâbih.
+| İbn Atıyye el-Endelüsî | 543/1148 | Mukaddime (el-Muharrerü'l-Vecîz'in mukaddimesi) | Tefsirin faziletleri, yedi harf, müfessirlerin mertebeleri, garip lafızlar, Kur'an'ın toplanması ve harekelenmesi. A. Jeffery 1954'te Mısır'da müstakil neşretmiştir; 41 sayfadır.
+| el-Kurtubî | 671/1272 | el-Câmi' li-Ahkâmi'l-Kur'ân | Kur'an okumanın adabı, rey ile tefsirin tehlikeleri, müfessirlerin mertebeleri, sünnetle tefsir, Hz. Osman mushafında ziyadelik ve eksiklik iddiaları.
+| Ebû Hayyân | 745/1344 | el-Bahrü'l-Muhît | Tefsirin ihtiyaç duyduğu ilimler (başta lügat, sonra bedî ve beyan); sebeb-i nüzul, nesih, umum-husus; Allah hakkında vacip, caiz ve mümteni olanlar; hareke ve harf değişiklikleri.
+| İbn Kesîr | 774/1372 | Tefsîrü'l-Kur'âni'l-Azîm | Rivayet tefsirinin Taberî'den sonraki en önemli ismi. Tefsirin sonunda usûle dair bir zeyl: Kur'an'ın fazileti, cem'i, yedi harf, kıraat.
+### İbn Kesîr'e göre tefsirin sırası
+>> Kur'an'ı Kur'an ile tefsir etmek (en güzel tefsir)
+>> Netice alınamazsa sünnete müracaat etmek
+>> Sonra sahabe sözleri (Kur'an'ın inişine şahit olmuş, sebeb-i nüzulü en iyi bilen kişiler oldukları için)
+* En eski usûl kitabı: Muhâsibî, el-Akl ve Fehmü'l-Kur'ân.
+* "Ulûmü'l-Kur'ân" tabirinin geçtiği ilk eser: Hûfî, el-Burhân.
+* Usûl kaynakları arasında 1. sırada: Zerkeşî, el-Burhân.
+* Dihlevî, Süyûtî'nin 20 mensuh ayetinden yalnızca 5'inde nesih kabul eder.
+
+## Tâlî kaynaklar ve Türkçe telifler
+: Tâlî Kaynak = Asli kaynak olmayıp tefsir usulüne dair bilgiler için müracaat edilebilecek ikincil kaynaklardır.
+### Arapça telifler
+| Müellif | Vefat | Eser
+| Zerkânî | 1367/1948 | Menâhilü'l-İrfân
+| Zehebî | 1399/1978 | et-Tefsîr ve'l-Müfessirûn
+| Ebû Şühbe | 1403/1983 | el-Medhal li-Dirâseti'l-Kur'ân
+| Subhî es-Sâlih | 1399/1978 | Mebâhis fî Ulûmi'l-Kur'ân
+| Mennâu'l-Kattân | 1420/1999 | Mebâhis fî Ulûmi'l-Kur'ân
+| Muhammed İzzet Derveze | 1404/1984 | el-Kur'ânü'l-Mecîd
+| Ramazan Bûtî | 1433/2013 | Revâiu'l-Kur'ân
+| Muhammed Ali es-Sâbûnî | 2021 | et-Tibyân fî Ulûmi'l-Kur'ân
+### Türkçe telifler
+| Müellif | Eser
+| Bergamalı Cevdet Bey | Tefsir Tarihi
+| İzmirli İsmail Hakkı | Târîh-i Kur'ân
+| Ömer Nasuhi Bilmen | Büyük Tefsir Tarihi
+| Muhammed Hamidullah | Kur'an Tarihi (aslı Fransızca; Salih Tuğ tercüme etmiş)
+| İsmail Cerrahoğlu | Tefsir Usûlü, Tefsir Tarihi
+| Muhsin Demirci | Tefsir Usûlü, Tefsir Tarihi
+| Zekeriya Pak | Tefsir Usûlü
+!! İki ayrı "Mebâhis fî Ulûmi'l-Kur'ân" vardır: biri Subhî es-Sâlih'in, diğeri Mennâu'l-Kattân'ın. İki ayrı "el-Burhân fî Ulûmi'l-Kur'ân" da vardır: Hûfî'nin ve Zerkeşî'nin.
+* Tâlî kaynaklar: Zerkânî (Menâhilü'l-İrfân), Zehebî (et-Tefsîr ve'l-Müfessirûn), Kattân ve Subhî es-Sâlih (Mebâhis).

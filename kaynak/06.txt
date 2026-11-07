@@ -1,0 +1,108 @@
+# Esbâb-ı Nüzûl
+> Ayetlerin iniş sebeplerini bilmenin esasları, tanımı ve şekilleri, faydaları, "umum-husus" kaidesi, rivayetlerde kullanılan tabirler ve aynı ayet için birden fazla sebep bulunduğunda izlenecek yol.
+
+## Ulemanın bu ilme önem vermesi
+- Nüzul sebebini bilmek ayeti doğru anlamayı kolaylaştırır. Ulema sebeb-i nüzule önem vermiş ve bu alanda müstakil kitaplar telif etmiştir.
+### Konuyla ilgili önemli eserler
+| Müellif | Vefat | Eser | Not
+| Vâhidî | 468 | Esbâbü'n-Nüzûl | Ca'berî (ö. 732) isnadlarını hazfederek aynı isimle ihtisar etmiştir.
+| İbn Teymiyye | 728 | et-Tibyân fî Nüzûli'l-Kur'ân |
+| Süyûtî | 911 | Lübâbü'n-Nükûl fî Esbâbi'n-Nüzûl |
+* Esbâb-ı nüzûl eserleri: Vâhidî (Esbâbü'n-Nüzûl), İbn Teymiyye (et-Tibyân), Süyûtî (Lübâbü'n-Nükûl).
+
+## Sebeb-i nüzûlü bilmede dayanılan esaslar
+- Âlimler nüzul sebebini bilmede Resûlullah'tan veya sahabeden gelen **sahih rivayete** dayanırlar. Çünkü sahabenin bu gibi şeylerden haber vermesi, sarih olursa rey ile olmaz; **merfû hadis hükmündedir**.
+@ قَالَ الْوَاحِدِيُّ: لَا يَحِلُّ الْقَوْلُ فِي أَسْبَابِ نُزُولِ الْكِتَابِ إِلَّا بِالرِّوَايَةِ وَالسَّمَاعِ مِمَّنْ شَاهَدُوا التَّنْزِيلَ، وَوَقَفُوا عَلَى الْأَسْبَابِ، وَبَحَثُوا عَنْ عِلْمِهَا وَجَدُّوا فِي الطَّلَبِ | Vâhidî: Esbâb-ı nüzûl hakkında, inişe şahit olan, sebeplere vâkıf olan ve onu araştıranlardan rivayet ve işitme olmaksızın söz söylemek helal değildir.
+!! Bu konuda dikkatli olmak gerekir. Muhammed b. Sîrîn: «سَأَلْتُ عَبِيدَةَ عَنْ آيَةٍ مِنَ الْقُرْآنِ فَقَالَ: اتَّقِ اللَّهَ وَقُلْ سَدَادًا، ذَهَبَ الَّذِينَ يَعْلَمُونَ فِيمَا أُنْزِلَ مِنَ الْقُرْآنِ» (Allah'tan kork, doğruyu söyle; Kur'an'ın ne hakkında indiğini bilenler gitti.)
+* Sebeb-i nüzûl sahih rivayetle bilinir; sahabenin sarih haberi merfû hükmündedir.
+
+## Esbâb-ı nüzûlün tanımı ve iki şekli
+: Esbâb-ı Nüzûl = Hz. Peygamber'in risalet döneminde vuku bulan ve Kur'an'ın bir veya birkaç ayetinin yahut bir suresinin inmesine yol açan olayı, durumu ya da soruyu ifade etmek üzere kullanılan terimdir.
+!! Vâhidî'nin **Fil olayını** sebeb-i nüzûl olarak aktarması hatalıdır; Fil olayı risaletten önce yaşanmıştır. Bu sadece geçmiş bir olayı haber vermektir. Nûh, Âd ve Semûd kıssaları da böyledir.
+### Sebeb-i nüzûl iki şekilde olur
+| Şekil | Örnek
+| **1. Bir olay meydana gelir, Kur'an o olay hakkında iner.** | "Yakın akrabanı uyar" ayeti inince Hz. Peygamber Safâ tepesine çıkıp tebliğ etti; Ebû Leheb'in "Ellerin kurusun, bizi bunun için mi topladın" sözü üzerine **Tebbet suresi** indi.
+| **2. Resûlullah'a bir şey sorulur, meselenin hükmünü açıklayan ayet iner.** | Evs b. Sâmit'in Havle bint Sa'lebe'ye zıhar yapması ve Havle'nin soru sorması üzerine **Mücâdele suresi** indi.
+* Tanımın kilit kaydı: olay "risalet döneminde" olmalıdır; Fil olayı sebeb-i nüzûl değildir.
+* İki şekil: olay üzerine (Tebbet) ve soru üzerine (Mücâdele).
+
+## Esbâb-ı nüzûlün faydaları (7 madde)
+1. **Kur'an'ın meselelere bakış açısını kavramamızı sağlar**; güncel meselelere Kur'anî perspektiften bakmamızı sağlar.
+2. **Ayet veya surenin ilahi maksada uygun yorumlanmasını sağlar.**
+@ إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ فَمَنْ حَجَّ الْبَيْتَ أَوِ اعْتَمَرَ فَلَا جُنَاحَ عَلَيْهِ أَنْ يَطَّوَّفَ بِهِمَا | Bakara 2/158
+~ Zahiren sa'y yapmak mubah gibi görünür; hâlbuki vaciptir. Mubah olması için «أَنْ لَا يَطَّوَّفَ بِهِمَا» şeklinde olmalıydı (Hz. Âişe–Urve olayı). **Sebebi:** Cahiliye döneminde Safâ ve Merve'de İsâf ve Nâile adlı iki put vardı; Müslümanlar bu yüzden sa'y yapmaktan çekinince ayet indi.
+3. **Problemli görülen ayetlerdeki problem giderilir.** Mervân b. Hakem «لَا تَحْسَبَنَّ الَّذِينَ يَفْرَحُونَ بِمَا أَتَوْا» (Âl-i İmrân 3/188) ayetini anlamakta zorlanmış: "Her sevinen ve yapmadığıyla övülmek isteyen azap görecekse hepimiz azap göreceğiz" demişti. İbn Abbas açıkladı: Ayet ehl-i kitap hakkında inmiştir. Hz. Peygamber onlara bir şey sormuş; cevabı gizleyip başka şeyler söylemiş, sorulana cevap vermiş gibi övülmeyi beklemiş ve cevabı gizledikleri için sevinmişlerdi.
+4. **Mübhem ayetlerin anlaşılmasını kolaylaştırır.** Mübhemler akılla değil nakille tespit edilir. Örnek: Abese (Abdullah b. Ümmü Mektûm), «إِنَّ شَانِئَكَ» (Âs b. Vâil).
+5. **Ayet ve sureler arasında münasebet kurmaya yardımcı olur.** A'râf 7/31–32 «يَا بَنِي آدَمَ خُذُوا زِينَتَكُمْ عِنْدَ كُلِّ مَسْجِدٍ وَكُلُوا وَاشْرَبُوا» Kâbe'yi çıplak tavaf edenler hakkında inmiştir. Kelbî: Cahiliye ehli hac günlerinde azıktan başka yemek yemez, yağ yemezdi; Müslümanlar "Buna biz daha layığız" deyince "yiyin, için" ayeti indi.
+6. **Hasr veya tahsis şüphesini ortadan kaldırır.**
+@ قُلْ لَا أَجِدُ فِي مَا أُوحِيَ إِلَيَّ مُحَرَّمًا عَلَى طَاعِمٍ يَطْعَمُهُ إِلَّا أَنْ يَكُونَ مَيْتَةً أَوْ دَمًا مَسْفُوحًا أَوْ لَحْمَ خِنْزِيرٍ | En'âm 6/145
+~ Müşriklere göre bu ayette sayılanların haram olması için hiçbir sebep yoktu; onlara bu ayetle cevap verildi: Haram olacak bir şey varsa o da sizin helal kabul ettiğiniz bu şeylerdir. Ayet hasr için değil, onların iddiasına zıt bir cevaptır; tıpkı "Bugün tatlı yeme" diyene "Bugün ancak tatlı yerim" demek gibi.
+7. **Ayetin kim hakkında indiğinin bilinmesi kişiler arasındaki husumeti kaldırır.**
+@ وَالَّذِي قَالَ لِوَالِدَيْهِ أُفٍّ لَكُمَا أَتَعِدَانِنِي أَنْ أُخْرَجَ وَقَدْ خَلَتِ الْقُرُونُ مِنْ قَبْلِي | Ahkâf 46/17
+~ Muâviye oğlu Yezîd'i veliaht tayin edip insanların ona biat etmesini istedi; Medine valisi Mervân insanları toplayıp biat etmelerini emretti. Abdurrahman b. Ebû Bekir biat etmeyince Mervân bu ayetin onun hakkında indiği iftirasını attı. Hz. Âişe: "Bu ayet Abdurrahman hakkında inmedi; istesem kim hakkında indiğini söylerim" dedi.
+* Esbâb-ı nüzûlün 7 faydası: bakış açısı · ilahi maksada uygun yorum (Safâ–Merve) · problemi gidermek (Âl-i İmrân 188) · mübhemi bilmek · münasebet · hasr şüphesini kaldırmak (En'âm 145) · husumeti kaldırmak (Abdurrahman b. Ebû Bekir).
+
+## "Hüküm, lafzın umumuna göredir; sebebin hususiliğine göre değil" kaidesi
+@ الْعِبْرَةُ بِعُمُومِ اللَّفْظِ لَا بِخُصُوصِ السَّبَبِ
+| Görüş | Açıklama
+| **1. Cumhur: lafzın umumuna itibar edilir** | Lian ayetinde olduğu gibi: sebep Hilâl b. Ümeyye hakkında olsa da hüküm, başka bir delile ihtiyaç olmaksızın başkalarını da kapsar. **Tercihe şayan görüş budur.**
+| **2. Bazı âlimler: sebebin hususiliğine itibar edilir** |
+- Muhammed b. Ka'b el-Kurazî: «إِنَّ الْآيَةَ تَنْزِلُ فِي الرَّجُلِ ثُمَّ تَكُونُ عَامَّةً بَعْدُ» (Ayet bir kişi hakkında iner, sonra umumi olur.)
+- Necde el-Hanefî İbn Abbas'a «وَالسَّارِقُ وَالسَّارِقَةُ فَاقْطَعُوا أَيْدِيَهُمَا» ayetini sordu: "Hususi mi, umumi mi?" İbn Abbas: "Bilakis umumidir."
+* Cumhura göre ibret lafzın umumundadır (Lian ayeti, Hilâl b. Ümeyye).
+
+## Esbâb-ı nüzûl rivayetleri için kullanılan tabirler ve örnekler
+| Tür | Nasıl anlaşılır | Örnek lafızlar
+| **1. Sarih** (sebebe kesin delalet eder) | "Sebep" kelimesinin bizzat zikredilmesi veya başta "fâ-i sebebiyye"nin kullanılması | «سَبَبُ نُزُولِ الْآيَةِ» · «فَنَزَلَتِ الْآيَةُ» · «فَأَنْزَلَ اللَّهُ» · «فَقَالَ اللَّهُ»
+| **2. Gayr-i sarih** (kesin delalet etmez) | Sebep kelimesi ve fâ-i sebebiyye yoksa; sebebe delalet edebileceği gibi sahabe veya tâbiînin bir durumla ayet arasında ilişki kurması da olabilir | «نَزَلَتْ هَذِهِ الْآيَةُ فِي كَذَا»
+- **İbn Teymiyye:** "Bu ayet şu konuda indi" sözüyle bazen nüzul sebebi, bazen de sebep olmasa bile o şeyin ayetin kapsamına girdiği kastedilir.
+- **Zerkeşî (el-Burhân):** Sahabe ve tâbiînin âdetindendir ki biri "bu ayet şu konuda indi" dediğinde ayetin bu hükmü içerdiğini kasteder; bu, ayetle hükme istidlal türündendir, olayın nakli türünden değildir.
+### Bazı örnekler
+~ İbn Abbas: Hz. Peygamber Medine'ye geldiğinde Medineliler ölçüde en kötü insanlardandı; **Allah indirdi:** «وَيْلٌ لِلْمُطَفِّفِينَ» (sarih: «فَأَنْزَلَ اللَّهُ»)
+~ İbn Abbas: Hz. Peygamber'e Kur'an inince ezberlemek için acele ederdi; **Allah buyurdu:** «لَا تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ» (sarih: «فَقَالَ اللَّهُ»)
+~ «فَأَمَّا الَّذِينَ فِي قُلُوبِهِمْ زَيْغٌ» Hasan-ı Basrî: Hâricîler hakkında indi (gayr-i sarih: «نَزَلَتْ فِي»)
+~ Muğîre b. Şu'be: «يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَخُونُوا اللَّهَ وَالرَّسُولَ» ayeti Hz. Osman'ın katli hakkında indi (gayr-i sarih)
+* Sarih: "sebep" kelimesi veya fâ-i sebebiyye (fe-enzela, fe-nezelet). Gayr-i sarih: "nezelet fî kezâ" (tefsir de olabilir).
+
+## Rivayetlerin çeşitliliği (aynı âyet için birden fazla sebep varsa)
+>> **1. Sigalar sarih değilse** («نَزَلَتْ هَذِهِ الْآيَةُ فِي كَذَا»): Maksat tefsirdir, sebeb-i nüzûl değildir; çelişki yoktur.
+>> **2. Biri sarih, diğeri değilse:** Sarih olana itimat edilir; açık olmayan siga istinbat ve tefsir sayılır.
+>> **3. İkisi de sarihse:** İsnadı sahih olan tercih edilir.
+>> **4. İsnadın sahihliğinde de eşitse:** Ercah olan tercih edilir. Ercahtan maksat: (a) ravinin olayın vukuunda hazır bulunması, (b) rivayetlerden birinin daha sahih olması.
+>> **5. Tercihte de eşitse:** Araları uzlaştırılır (cem').
+>> **6. Zaman uzaklığından cem' de mümkün değilse:** Nüzulün taaddüt ve tekerrür ettiğine hamledilir.
+### Örnekler
+| Durum | Örnek
+| **2. Sarih + gayr-i sarih** | «نِسَاؤُكُمْ حَرْثٌ لَكُمْ» (Bakara 2/223): İbn Ömer "kadınlara arkadan yaklaşmak hakkında indi" dedi (gayr-i sarih). Câbir: Yahudiler "kadına arkasından yaklaşılırsa çocuk şaşı olur" derdi, **bunun üzerine indi** (sarih). Câbir'in rivayeti esastır; İbn Ömer'inki istinbat ve tefsirdir.
+| **3. İsnadı sahih olan** | Duhâ suresi: Buhârî ve Müslim'deki Cündeb rivayeti (Hz. Peygamber iki-üç gece kalkamayınca bir kadının "şeytanın seni terk etti" demesi) ile Taberânî'deki köpek yavrusu rivayeti. İbn Hacer: Köpek yavrusu kıssası meşhurdur ama sebeb-i nüzûl olması garibtir; isnadında tanınmayan biri vardır. **Muteber olan Sahîhayn'dakidir.**
+| **4. Ercah olan** | «وَيَسْأَلُونَكَ عَنِ الرُّوحِ» (İsrâ 17/85): Buhârî'de İbn Mes'ûd Medine'de Yahudilerin sorusu üzerine indiğini anlatır; Tirmizî'de İbn Abbas, Kureyş'in Yahudilere danışması üzerine Mekke'de indiğini anlatır. **Buhârî rivayeti tercih edilir:** İbn Mes'ûd olayın içindedir ve Buhârî Tirmizî'den daha sahihtir.
+| **5. Cem'** | Lian ayetleri «وَالَّذِينَ يَرْمُونَ أَزْوَاجَهُمْ» (Nûr 24/6): Hilâl b. Ümeyye hakkında (Buhârî, Tirmizî, İbn Mâce) ve Uveymir hakkında (Buhârî, Müslim) rivayetler var. Önce Hilâl'in olayı olmuş, Uveymir'in gelişi ona denk gelmiş; ayet ikisinin hakkında birlikte inmiştir.
+| **6. Tekerrür** | «وَإِنْ عَاقَبْتُمْ فَعَاقِبُوا بِمِثْلِ مَا عُوقِبْتُمْ بِهِ وَلَئِنْ صَبَرْتُمْ لَهُوَ خَيْرٌ لِلصَّابِرِينَ» (Nahl 16/126). Ebû Hüreyre: Uhud'da Hz. Hamza şehit edilince Hz. Peygamber başucunda "Senin yerine onlardan 70 kişiyi öldüreceğim" dedi; oradan ayrılmadan ayet indi. Übey b. Ka'b: Müslümanlar "fırsat geçse intikamını fazlasıyla alırız" dediler; Mekke fethi günü ayet indi. **Uhud ile Mekke fethi arası 5 yıldır.**
+### Nüzulün tekerrürü
+- **Süyûtî, Zerkeşî ve İbn Teymiyye** nüzulün tekerrürünü kabul eder. Bu tekerrür ayetin şanını yüceltir ve unutulmamasını sağlar.
+!! **Muhsin Demirci:** Bir ayetin iki defa nazil olmasının izahı zordur; ashabın Kur'an konusundaki hassasiyetine zarar verir ve Hz. Peygamber'in tebliğde lakayt davrandığını gösterir. Kanaatimizce bu ayetler Uhud'dan sonra inmiş, Mekke fethinde Müslümanlar zulmeder endişesiyle hatırlatılmıştır. Übey b. Ka'b'ın bu anlamdaki rivayeti, ondan nakleden raviler tarafından yeni inmiş ayet şeklinde algılanıp aktarılmıştır.
+* Birden fazla sebep: sarih değilse tefsir · biri sarihse o · ikisi sarihse isnadı sahih olan · eşitse ercah (olayda hazır olan) · o da eşitse cem' · cem' mümkün değilse tekerrür.
+* Tekerrürü kabul edenler: Süyûtî, Zerkeşî, İbn Teymiyye. Muhsin Demirci izahını zor bulur (Nahl 126 örneği).
+
+## Sebep bir, nüzûl birden fazla olması
+@ قَدْ يَتَعَدَّدُ مَا يَنْزِلُ وَالسَّبَبُ وَاحِدٌ، وَلَا شَيْءَ فِي ذَلِكَ، فَقَدْ يَنْزِلُ فِي الْوَاقِعَةِ الْوَاحِدَةِ آيَاتٌ عَدِيدَةٌ فِي سُوَرٍ شَتَّى | Sebep tek olduğu hâlde inen birden fazla olabilir; tek bir olay hakkında farklı surelerde birçok ayet inebilir.
+- Ümmü Seleme'nin kadınların zikredilmemesiyle ilgili soruları üzerine üç ayet inmiştir:
+>> «فَاسْتَجَابَ لَهُمْ رَبُّهُمْ أَنِّي لَا أُضِيعُ عَمَلَ عَامِلٍ مِنْكُمْ مِنْ ذَكَرٍ أَوْ أُنْثَى» (Âl-i İmrân 3/195): "Hicrette kadınlardan bir şey anıldığını işitmiyorum" sorusu üzerine.
+>> «إِنَّ الْمُسْلِمِينَ وَالْمُسْلِمَاتِ وَالْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ…» (Ahzâb 33/35): "Neden erkekler gibi Kur'an'da anılmıyoruz?" sorusu üzerine.
+>> «وَلَا تَتَمَنَّوْا مَا فَضَّلَ اللَّهُ بِهِ بَعْضَكُمْ عَلَى بَعْضٍ» (Nisâ 4/32): "Erkekler savaşıyor, biz savaşmıyoruz; mirasta da yarı payımız var" sözü üzerine.
+- «فَهَذِهِ الْآيَاتُ الثَّلَاثُ نَزَلَتْ عَلَى سَبَبٍ وَاحِدٍ» Bu üç ayet tek sebep üzerine inmiştir.
+* Ümmü Seleme'nin soruları üzerine üç ayet: Âl-i İmrân 195, Ahzâb 35, Nisâ 32.
+
+## Âyetin nüzûlünün hükümden önce gelmesi
+- **Zerkeşî**'nin bu fikrini **Beğavî** mümkün görmektedir.
+| Ayet | Açıklama
+| «قَدْ أَفْلَحَ مَنْ تَزَكَّى» (A'lâ 87/14) | Zekâtü'l-fıtr'a delil getirilir; Beyhakî İbn Ömer'den Ramazan'daki fıtır sadakası hakkında indiğini rivayet eder. Bazıları: Sure Mekkîdir, Mekke'de bayram da zekât da yoktu; bu te'vilin yönünü bilmiyorum.
+| «سَيُهْزَمُ الْجَمْعُ وَيُوَلُّونَ الدُّبُرَ» (Kamer 54/45) | Mekke'de indi. Hz. Ömer: "Hangi topluluk bozguna uğrayacak, bilmiyordum. Bedir günü Resûlullah'ı bu ayeti okurken görünce anladım."
+! Bu örnekler, ayetin özel bir hüküm hakkında inip onunla ancak sonra amel edildiğine kesin delil değildir; ayet birden fazla manaya ihtimali olan mücmel bir lafızla inmiş, sonra sonradan gelen bir hükme delil olacak şekilde manalarından birine hamledilmiş olabilir.
+* Nüzulün hükümden önce gelmesi: A'lâ 14 (fıtır sadakası), Kamer 45 (Bedir); Zerkeşî'nin fikri, Beğavî mümkün görür.
+
+## Bir kişi hakkında birden fazla âyet inmesi
+- Bazen sahabeden biri için birden fazla olay meydana gelir ve her olayın durumuna göre ayet iner.
+- Buhârî'nin rivayetinde **Sa'd b. Ebî Vakkâs**: "Benim hakkımda **dört ayet** nazil oldu" demiştir.
+- **Hz. Ömer'in muvafakatı** da bu kabildendir: Vahiy birçok ayette Hz. Ömer'in görüşüne uygun inmiştir.
+* Bir kişi hakkında birden çok ayet: Sa'd b. Ebî Vakkâs (4 ayet), Hz. Ömer'in muvafakatları.

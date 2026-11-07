@@ -1,0 +1,117 @@
+<!-- ===== BİLDİR (hata bildirimi) · Giray Akademi ortak parçası ===== -->
+<style>
+.rep{border:1px solid transparent;background:transparent;color:#6b7068;font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;font-size:.72rem;font-weight:500;padding:2px 8px;border-radius:999px;cursor:pointer;opacity:.75;white-space:nowrap;line-height:1.6;vertical-align:middle}
+.rep:hover,.rep:focus{opacity:1;border-color:#e3dccb}
+.rep.on{opacity:1;color:#a8432f;border-color:#a8432f}
+.bld-lbtn{display:none!important}
+.bld-lbtn.has{display:inline-flex!important;align-items:center;gap:4px;color:#a8432f!important;border:1px solid #a8432f!important;background:transparent;border-radius:999px;padding:5px 11px;font:500 .84rem system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;cursor:pointer;white-space:nowrap}
+.bld-lbtn .bld-lg{display:inline}
+@media (max-width:560px){.bld-lbtn .bld-lg{display:none}}
+.bld-modal{position:fixed;inset:0;z-index:1000;background:rgba(0,0,0,.45);display:none;align-items:center;justify-content:center;padding:16px}
+.bld-modal.open{display:flex}
+.bld-box{background:#fffdf8;color:#1f2a24;border:1px solid #e3dccb;border-radius:14px;max-width:520px;width:100%;max-height:90vh;overflow:auto;padding:18px;font:15px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;box-shadow:0 10px 40px rgba(0,0,0,.25);text-align:left}
+.bld-box h3{margin:0 0 4px;font:700 1.08rem "Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;color:#1f5a45}
+.bld-loc{color:#6b7068;font-size:.8rem;margin-bottom:8px}
+.bld-q{background:#f7f3ea;border-radius:8px;padding:8px 10px;margin:6px 0 10px;font-size:.9rem;max-height:9em;overflow:auto}
+.bld-box label{display:flex;gap:8px;align-items:center;padding:4px 0;cursor:pointer;font-size:.9rem}
+.bld-box textarea{width:100%;min-height:70px;margin-top:8px;border:1px solid #e3dccb;border-radius:8px;padding:8px;background:#f7f3ea;color:#1f2a24;font:inherit;font-size:.9rem;box-sizing:border-box}
+.bld-btns{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+.bld-btns button,.bld-btns a{border:1px solid #e3dccb;background:#f7f3ea;color:#1f2a24;border-radius:8px;padding:7px 11px;font:inherit;font-size:.84rem;cursor:pointer;text-decoration:none}
+.bld-btns .pri{background:#1f5a45;color:#fff;border-color:#1f5a45}
+.bld-hint{color:#6b7068;font-size:.76rem;margin-top:10px}
+.bld-msg{color:#2f7a5f;font-size:.82rem;margin-top:8px;min-height:1em}
+.bld-list{margin:8px 0;padding:0;list-style:none}
+.bld-list li{border:1px solid #e3dccb;border-radius:8px;padding:6px 9px;margin:6px 0;display:flex;gap:8px;justify-content:space-between;align-items:flex-start;font-size:.88rem}
+.bld-list li small{color:#6b7068}
+.bld-list li button{border:0;background:none;color:#6b7068;cursor:pointer}
+</style>
+<div class="bld-modal" id="bldModal" role="dialog" aria-modal="true" aria-labelledby="bldTitle"><div class="bld-box" id="bldBox"></div></div>
+<script>
+/* Kullanım: düğme → <button class="rep" data-k="benzersiz-anahtar" data-yer="Ünite 3 · Bölüm" data-bas="Kayıt başlığı">⚑ Bildir</button>
+   Programda önceden tanımlanır: window.BLD_APP = 'Program adı'; window.BLD_PREFIX = 'kayıt ön eki';
+   İsteğe bağlı: "Bildirimlerim" düğmesinin konacağı yer → window.BLD_SLOT = 'css seçici' */
+(function () {
+  const APP = window.BLD_APP || 'Program', MAIL = 'alpkiraymehmet@gmail.com';
+  const KEY = (window.BLD_PREFIX || 'bld_') + 'reports';
+  const TYPES = ['Bilgi yanlış', 'Eksik ya da karışık anlatım', 'Soru, şık veya cevap hatalı', 'Arapça metin bozuk', 'Yazım hatası', 'Diğer'];
+  const E = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;'}[c]));
+  const getL = () => { try { return JSON.parse(localStorage.getItem(KEY) || '[]'); } catch (e) { return []; } };
+  const setL = l => { try { localStorage.setItem(KEY, JSON.stringify(l)); } catch (e) {} sync(); };
+  const modal = document.getElementById('bldModal'), box = document.getElementById('bldBox');
+  let lbtn = null;
+  function slot() {
+    if (lbtn || !window.BLD_SLOT) return;
+    const s = document.querySelector(window.BLD_SLOT); if (!s) return;
+    lbtn = document.createElement('button'); lbtn.type = 'button'; lbtn.className = 'bld-lbtn'; lbtn.title = 'Listeye eklediğin hata bildirimleri';
+    lbtn.onclick = openList; s.appendChild(lbtn);
+  }
+  function sync() { slot(); if (lbtn) { const n = getL().length; lbtn.classList.toggle('has', n > 0); lbtn.innerHTML = `⚑<span class="bld-lg"> Bildirimlerim</span> (${n})`; } mark(); }
+  function mark() { const l = getL(); document.querySelectorAll('.rep[data-k]').forEach(b => b.classList.toggle('on', l.some(x => x.k === b.dataset.k))); }
+  const TR = {'ç': 'c', 'ğ': 'g', 'ı': 'i', 'ö': 'o', 'ş': 's', 'ü': 'u', 'â': 'a', 'î': 'i', 'û': 'u', 'Ç': 'C', 'Ğ': 'G', 'İ': 'I', 'Ö': 'O', 'Ş': 'S', 'Ü': 'U', 'Â': 'A', 'Î': 'I', 'Û': 'U'};
+  const ascii = t => String(t).normalize('NFC').replace(/[çğıöşüâîûÇĞİÖŞÜÂÎÛ]/g, c => TR[c]).normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^\x20-\x7E\n]/g, '');
+  const plain = t => String(t).replace(/[“”«»]/g, '"').replace(/[‘’ʿʾ]/g, "'").replace(/[·—–…]/g, '-').replace(/\s{2,}/g, ' ').trim();
+  const body1 = r => `Program: ${APP}\nYer: ${r.yer}\nKayit: ${r.bas}\nKayit no: ${r.k}\nHata turu: ${r.type}\nNot: ${r.note || '-'}\nSayfa: ${r.url}`;
+  const subj = r => `[${APP} Hata] ${r.k}`;
+  const mailto = (su, bo) => `mailto:${MAIL}?subject=${encodeURIComponent(ascii(plain(su)))}&body=${encodeURIComponent(ascii(bo.split('\n').map(plain).join('\n'))).replace(/%0A/g, '%0D%0A')}`;
+  const gmail = (su, bo) => `https://mail.google.com/mail/?view=cm&fs=1&to=${MAIL}&su=${encodeURIComponent(su)}&body=${encodeURIComponent(bo)}`;
+  function copy(t, msg) {
+    const done = () => { msg.textContent = `Kopyalandı. Yeni bir e-posta aç, alıcıya ${MAIL} yaz ve metni mesajın içine yapıştır.`; };
+    const fb = () => { const ta = document.createElement('textarea'); ta.value = t; document.body.appendChild(ta); ta.select(); try { document.execCommand('copy'); done(); } catch (e) { msg.textContent = 'Kopyalanamadı; metni elle seçip kopyalayabilirsin.'; } ta.remove(); };
+    try { if (navigator.clipboard && window.isSecureContext !== false) navigator.clipboard.writeText(t).then(done, fb); else fb(); } catch (e) { fb(); }
+  }
+  let pushed = false;
+  function open(html) {
+    box.innerHTML = html;
+    if (!modal.classList.contains('open')) { try { history.pushState(Object.assign({}, history.state, {bld: 1}), ''); pushed = true; } catch (e) { pushed = false; } }
+    modal.classList.add('open'); const f = box.querySelector('textarea,input,button'); f && f.focus();
+  }
+  let closing = false;
+  function close() { if (!modal.classList.contains('open')) return; modal.classList.remove('open'); if (pushed) { pushed = false; closing = true; try { history.back(); } catch (e) { closing = false; } } }
+  // Telefonda geri hareketi önce pencereyi kapatsın, programın kendi gezinmesine geçmesin
+  window.addEventListener('popstate', e => {
+    if (closing) { closing = false; e.stopImmediatePropagation(); return; }
+    if (modal.classList.contains('open') || pushed || (history.state && history.state.bld)) {
+      const wasOpen = modal.classList.contains('open');
+      modal.classList.remove('open'); pushed = false; e.stopImmediatePropagation();
+      if (!wasOpen && history.state && history.state.bld) { try { history.back(); } catch (er) {} }
+    }
+  }, true);
+  modal.addEventListener('click', e => { if (e.target === modal || e.target.closest('[data-x=close]')) close(); });
+  document.addEventListener('keydown', e => { if (e.key === 'Escape' && modal.classList.contains('open')) close(); });
+  function report(b) {
+    const r = {k: b.dataset.k, yer: b.dataset.yer || '', bas: b.dataset.bas || '', url: location.href};
+    open(`<h3 id="bldTitle">Hata bildir</h3><div class="bld-loc">${E(r.yer)}</div><div class="bld-q">${E(r.bas)}</div>
+      ${TYPES.map((t, i) => `<label><input type="radio" name="bldt" value="${i}" ${i === 0 ? 'checked' : ''}> ${E(t)}</label>`).join('')}
+      <textarea id="bldNote" placeholder="Not (isteğe bağlı): doğrusu ne olmalı, kaynağı nedir…"></textarea>
+      <div class="bld-btns"><button class="pri" data-a="mail">E-posta ile gönder</button><a data-a="gmail" href="#" target="_blank" rel="noopener">Gmail'de aç</a><button data-a="copy">Metni kopyala</button><button data-a="add">Listeye ekle</button><button data-x="close">Kapat</button></div>
+      <div class="bld-msg" id="bldMsg" aria-live="polite"></div>
+      <div class="bld-hint">“E-posta ile gönder” bilgisayarındaki/telefonundaki e-posta uygulamasını açar. Açılmazsa “Gmail'de aç”ı ya da “Metni kopyala”yı kullan. Adres: ${MAIL}. Birden çok hata bulacaksan “Listeye ekle” deyip sonra üstteki “Bildirimlerim” ile hepsini tek e-postada gönderebilirsin.</div>`);
+    const get = () => Object.assign({}, r, {type: TYPES[+box.querySelector('input[name=bldt]:checked').value], note: box.querySelector('#bldNote').value.trim()});
+    const msg = box.querySelector('#bldMsg'), q = a => box.querySelector(`[data-a=${a}]`);
+    q('mail').onclick = () => { const x = get(); try { navigator.clipboard && navigator.clipboard.writeText(body1(x)).catch(() => {}); } catch (e) {} location.href = mailto(subj(x), body1(x)); msg.textContent = 'E-posta uygulaman açılıyor… Metin ayrıca panoya kopyalandı: mesaj boş ya da bozuk görünürse içini silip yapıştırabilirsin.'; };
+    q('gmail').onclick = function () { const x = get(); this.href = gmail(subj(x), body1(x)); };
+    q('copy').onclick = () => copy(body1(get()), msg);
+    q('add').onclick = () => { const l = getL(); l.push(get()); setL(l); msg.textContent = `Listeye eklendi (${l.length}). Üstteki “Bildirimlerim” ile topluca gönderebilirsin.`; };
+  }
+  function openList() {
+    const l = getL(), su = `[${APP} Hata] Toplu bildirim (${l.length} hata)`, bo = l.map((r, i) => `--- ${i + 1} ---\n${body1(r)}`).join('\n\n');
+    open(`<h3 id="bldTitle">Bildirimlerim (${l.length})</h3>
+      ${l.length ? `<ul class="bld-list">${l.map((r, i) => `<li><div><b>${E(r.bas.slice(0, 90))}</b><br><small>${E(r.yer)} · ${E(r.type)}${r.note ? ' — ' + E(r.note) : ''}</small></div><button data-del="${i}" title="Listeden çıkar">✕</button></li>`).join('')}</ul>` : '<p>Liste boş.</p>'}
+      <div class="bld-btns">${l.length ? `<button class="pri" data-a="mail">Hepsini e-postayla gönder</button><a data-a="gmail" href="#" target="_blank" rel="noopener">Gmail'de aç</a><button data-a="copy">Metni kopyala</button><button data-a="clear">Listeyi temizle</button>` : ''}<button data-x="close">Kapat</button></div>
+      <div class="bld-msg" id="bldMsg" aria-live="polite"></div><div class="bld-hint">Gönderdikten sonra “Listeyi temizle” diyebilirsin. Liste yalnızca bu tarayıcıda saklanır.</div>`);
+    const msg = box.querySelector('#bldMsg'), q = a => box.querySelector(`[data-a=${a}]`);
+    box.querySelectorAll('[data-del]').forEach(x => x.onclick = () => { const L = getL(); L.splice(+x.dataset.del, 1); setL(L); openList(); });
+    if (!l.length) return;
+    q('mail').onclick = () => { const u = mailto(su, bo); if (u.length > 1900) msg.textContent = `Liste uzun; e-posta uygulaması metni kesebilir. Kesilirse “Gmail'de aç” veya “Metni kopyala”yı kullan.`; location.href = u; };
+    q('gmail').href = gmail(su, bo);
+    q('copy').onclick = () => copy(bo, msg);
+    q('clear').onclick = () => { setL([]); openList(); };
+  }
+  document.addEventListener('click', e => { const b = e.target.closest('.rep[data-k]'); if (!b) return; e.preventDefault(); e.stopPropagation(); report(b); }, true);
+  new MutationObserver(() => { if (!lbtn) slot(); mark(); }).observe(document.body, {childList: true, subtree: true});
+  window.bldButton = (k, yer, bas, txt) => `<button type="button" class="rep" data-k="${E(k)}" data-yer="${E(yer)}" data-bas="${E(String(bas).slice(0, 400))}" title="Bu kayıttaki bir hatayı bildir">${txt || '⚑ Bildir'}</button>`;
+  window.bldOpenList = openList;
+  sync();
+})();
+</script>
+<!-- ===== /BİLDİR ===== -->

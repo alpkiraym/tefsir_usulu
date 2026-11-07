@@ -1,0 +1,90 @@
+# Mekkî–Medenî Sûreler
+> Ulemanın Mekkî ve Medenî ilmine gösterdiği özen, bu ilmi bilmenin önemi, bilinme yolları, üç kriter ve Mekkî ile Medenî sûrelerin kaide ve nitelikleri.
+
+## Ulemanın bu konuya gösterdiği özen (inâyet)
+@ قَالَ ابْنُ مَسْعُودٍ: وَاللَّهِ الَّذِي لَا إِلَهَ غَيْرُهُ مَا نَزَلَتْ سُورَةٌ مِنْ كِتَابِ اللَّهِ إِلَّا وَأَنَا أَعْلَمُ أَيْنَ نَزَلَتْ، وَلَا نَزَلَتْ آيَةٌ مِنْ كِتَابِ اللَّهِ إِلَّا وَأَنَا أَعْلَمُ فِيمَ نَزَلَتْ، وَلَوْ أَعْلَمُ أَنَّ أَحَدًا أَعْلَمُ مِنِّي بِكِتَابِ اللَّهِ تَبْلُغُهُ الْإِبِلُ لَرَكِبْتُ إِلَيْهِ | İbn Mes'ûd: Allah'ın kitabından hiçbir sure yoktur ki nerede indiğini, hiçbir ayet yoktur ki ne hakkında indiğini bilmeyeyim. Benden daha iyi bileni olsaydı develerle ona giderdim.
+- Ebü'l-Kâsım en-Nîsâbûrî (et-Tenbîh alâ Fazli Ulûmi'l-Kur'ân): Kur'an ilimlerinin en şereflisi nüzulünü ve yönlerini bilmektir. Mekke ve Medine'de inenler, Mekke'de inip hükmü Medenî olanlar, Medine'de inip hükmü Mekkî olanlar, gece ve gündüz inenler, sefer ve hazarda inenler… **25 vecih** sayar ve bunları bilip ayırt etmeyen kimsenin Allah'ın kitabı hakkında konuşmasının helal olmadığını söyler.
+- Ulemanın bu konudaki inâyetini gösteren en önemli delil, ayetlerin indiği zamanları dikkate alıp konuyu ayrıntılı ele almalarıdır: **leylî–nehârî** (gece–gündüz), **sayfî–şitâî** (yaz–kış), **hadarî–seferî** (yerleşik–yolculuk)…
+### Âlimlerin incelediği başlıca türler
+| Mekân ile ilgili | Zaman ve durum ile ilgili
+| Mekke'de inen | Gece inen ve gündüz inen
+| Medine'de inen | Yazın inen ve kışın inen
+| Hakkında ihtilaf edilen | Hazarda inen ve seferde inen
+| Medenî surelerdeki Mekkî ayetler | Medenî olanın Mekkî'ye benzeyeni
+| Mekkî surelerdeki Medenî ayetler | Mekkî olanın Medenî'ye benzeyeni
+| Mekke'de inip hükmü Medenî olan | Mekke'den Medine'ye taşınan
+| Medine'de inip hükmü Mekkî olan | Medine'den Mekke'ye taşınan
+- Bu 14 tür esastır; hepsi Mekkî ve Medenî ekseninde döner. Bu yüzden ilme "**ilmü'l-Mekkî ve'l-Medenî**" denmiştir.
+* İbn Mes'ûd her surenin nerede, her ayetin ne hakkında indiğini bildiğini söyler.
+* Ulemanın inâyetinin delili: leylî–nehârî, sayfî–şitâî, hadarî–seferî ayrımları.
+
+## Âyetlerin Mekkî ve Medenî olduğunu bilmenin önemi
+1. **Kur'an tefsirinden yararlanılır:** İki ayette mana çeliştiğinde müfessir bunun ışığında nâsih ile mensuhu ayırt eder; ayetleri doğru anlar ve doğru tefsir eder.
+2. **Kur'an'ın üslubundan zevk almak ve Allah'a davette bu üsluptan faydalanmak:** Hitap insanların sınıflarına, inançlarına ve sosyal durumlarına göre değişir. Bu, davette hitap yolları için bir metot verir: önce imanî ilkeler, sonra ahkâm ayetleri.
+3. **Kur'anî ayetler içinden Sîret-i Nebî'ye vâkıf olmak:** Mekke ve Medine devrinde davet tarihinin izlerini Kur'an'la görebiliriz.
+* Mekkî–Medenî bilmenin 3 faydası: nâsih-mensûhu ayırmak · davet üslubu (önce iman, sonra ahkâm) · siyeri Kur'an'dan izlemek.
+
+## Mekkî/Medenî olduğu nasıl bilinir? (Nakil ve kıyas)
+- Ca'berî: «لِمَعْرِفَةِ الْمَكِّيِّ وَالْمَدَنِيِّ طَرِيقَانِ: سَمَاعِيٌّ وَقِيَاسِيٌّ» Semâî nakle, kıyâsî akla dayanır; nakil ve akıl, sağlam bilginin ve ilmî tahkikin iki yoludur.
+| Yol | Dayanağı | Açıklama
+| **1. Rivayet (semâî)** | Sahabe ve tâbiînden sahih rivayet | Kur'an'ın çoğu bu yolla bilinir. Hz. Peygamber'den bu konuda bir söz gelmemiştir, çünkü bununla emrolunmamıştır (Kadı Ebû Bekir, el-İntisâr).
+| **2. Kıyas (kıyâsî)** | Mekkî ve Medenî'nin özellikleri | Üslup ve özelliğe dayalı bu yol içtihaddır.
+~ Kıyas yoluna örnek: İçinde geçmiş peygamber ve ümmetlerin kıssaları bulunan her sure Mekkî; içinde farz veya had bulunan her sure Medenîdir.
+* Bilme yolları: rivayet (sahabe ve tâbiîn; çoğu bu yolla) ve kıyas (özelliklere dayalı içtihad).
+
+## Mekkî ve Medenî kriteri (zaman, mekân, hitap)
+- Bu konuda 3 görüş vardır:
+| Kriter | Mekkî | Medenî | Değerlendirme
+| **1. Zaman** | Hicretten önce inen (Mekke dışında inse bile) | Hicretten sonra inen (Mekke'de veya Arafat'ta inse bile) | **En uygun görüş:** kapsayıcı ve tutarlıdır (Hicretten önce ve sonra esas alınır; nerede indiğinin önemi yoktur).
+| **2. Mekân** | Mekke ve çevresinde (Mina, Arafat, Hudeybiye) inen | Medine ve çevresinde (Uhud, Kuba, Sel') inen | Hicretten sonra inse bile Mekke'de inen Mekkîdir.
+| **3. Muhatap** | Mekke halkına hitap eden: «يَا أَيُّهَا النَّاسُ» | Medine halkına hitap eden: «يَا أَيُّهَا الَّذِينَ آمَنُوا» | Bu ölçü tutarlı değildir.
+~ Zaman kriterine göre Veda Haccında (Mekke'de) inen ayet Medenîdir: «الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِي وَرَضِيتُ لَكُمُ الْإِسْلَامَ دِينًا» (Mâide 5/3)
+!! Muhatap kriteri her yerde geçmez: Kur'an surelerinin çoğu bu iki hitaptan biriyle başlamaz. Bakara Medenîdir ama içinde «يَا أَيُّهَا النَّاسُ اعْبُدُوا رَبَّكُمُ» vardır; Nisâ Medenîdir ve «يَا أَيُّهَا النَّاسُ» ile başlar; Hac Mekkîdir ama içinde «يَا أَيُّهَا الَّذِينَ آمَنُوا ارْكَعُوا وَاسْجُدُوا» vardır.
+### Sure sayıları
+| Medenî | Mekkî | İhtilaflı
+| 20 sure | 82 sure | 12 sure
+* En uygun kriter zamandır: hicretten önce Mekkî, sonra Medenî.
+* 20 sure Medenî, 82 sure Mekkî, 12 sure ihtilaflı.
+
+## Mekkî sûrelerin kaide ve nitelikleri
+### A. Kaideleri
+1. Secde bulunan sureler.
+2. «كَلَّا» lafzı bulunan sureler.
+3. Bakara ve Âl-i İmrân hariç "Ey insanlar" hitabı bulunup "Ey iman edenler" hitabı bulunmayanlar.
+4. Geçmiş ümmet ve peygamberlerin haberleri bulunan sureler.
+5. Bakara hariç Hz. Âdem–İblis kıssasının anlatıldığı sureler.
+6. Hurûf-ı mukattaa ile başlayan sureler.
+### B. Nitelikleri (konu ve üslup açısından)
+1. Tevhid, risalet, ahiret konuları.
+2. Genel ahlakî esasların konulması; kötü âdet ve suçların ifşası: şirk, yetim malı yemek, kızları diri diri gömmek…
+3. Geçmiş ümmet ve peygamberlerin haberlerinin azarlama ve teselli olarak anlatılması.
+4. Yeminlerle başlayan, özlü ibare ve kuvvetli lafızlarla yapılan sarsıcı anlatımlar.
+5. Yüksek ifade gücü ve musikî bir ahenk.
+6. Somutlaştırma: kıyamet sahneleri, cehennemin hâlleri, cennetin durumu vb.
+* Mekkî kaideler: secde · kellâ · "ey insanlar" (Bakara, Âl-i İmrân hariç) · geçmiş ümmet haberleri · Âdem–İblis (Bakara hariç) · hurûf-ı mukattaa.
+
+## Medenî sûrelerin kaide ve nitelikleri
+### A. Kaideleri
+1. Farz ve hadler bulunan sureler.
+2. Ankebût hariç münafıklardan bahsedilen sureler.
+3. Ehl-i kitap ile mücadele bulunan sureler.
+### B. Nitelikleri (konu ve üslup açısından)
+1. İbadet, muamelat, had, aile nizamı, miras, cihad meselelerinin beyanı.
+2. Ehl-i kitaba hitap ve onları İslam'a davet; yaşadıkları batıl hayatın ifşası.
+3. Münafıkların ahlak ve gidişatlarının ifşası.
+4. Teşrîi anlatan, hedef ve amaçlarını açıklayan bir üslup içinde ayetlerin uzun olması.
+5. Üslubunda yumuşaklık ve sükûnet; fasılaları uzun ve nesir üzere.
+### Karşılaştırma
+| | Mekkî | Medenî
+| Kaideler | Secde, kellâ, "ey insanlar", geçmiş ümmetler, Âdem–İblis, hurûf-ı mukattaa | Farz ve hadler, münafıklar (Ankebût hariç), ehl-i kitapla mücadele
+| Konu | Tevhid, risalet, ahiret; genel ahlak; kıssalar | İbadet, muamelat, had, aile, miras, cihad; ehl-i kitap; münafıklar
+| Üslup | Yeminli, sarsıcı, özlü; musikî ahenk; somutlaştırma | Uzun ayetler, teşrî üslubu; yumuşak ve sakin, nesre yakın
+| Benzetme | Çağlayan bir nehir | Durgun bir nehir
+* Medenî kaideler: farz ve hadler · münafıklar (Ankebût hariç) · ehl-i kitapla mücadele.
+* Mekkî sureler çağlayan, Medenî sureler durgun bir nehir gibidir.
+
+## Mekkî âyete örnek
+### Mekkî ayete örnek
+@ يَا أَيُّهَا الْمُدَّثِّرُ، قُمْ فَأَنْذِرْ، وَرَبَّكَ فَكَبِّرْ، وَثِيَابَكَ فَطَهِّرْ، وَالرُّجْزَ فَاهْجُرْ، وَلَا تَمْنُنْ تَسْتَكْثِرُ، وَلِرَبِّكَ فَاصْبِرْ | Müddessir 74/1–7 · kısa ayetler, tevhid ve davet
+### Medenî ayete örnek
+@ يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قُمْتُمْ إِلَى الصَّلَاةِ فَاغْسِلُوا وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى الْمَرَافِقِ وَامْسَحُوا بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى الْكَعْبَيْنِ | Mâide 5/6 · "Ey iman edenler" hitabı, uzun ayet, ibadet hükmü

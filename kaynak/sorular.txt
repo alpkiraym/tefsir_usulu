@@ -1,0 +1,559 @@
+# El ile hazırlanmış sorular. Biçim:
+# ? <ünite no> | soru
+# + doğru cevap
+# - çeldirici (3 adet)
+# = açıklama
+# Bütün bilgiler kaynak metinden (01–10.txt) alınmıştır.
+
+? 1 | Emin el-Hûlî'ye göre «فسر» ve «سفر» kökleri arasındaki fark nedir?
++ «سفر» maddi, zahiri keşfi; «فسر» manevi keşfi ifade eder.
+- «فسر» maddi keşfi; «سفر» manevi keşfi ifade eder.
+- İkisi de yalnızca maddi keşfi ifade eder.
+- «فسر» okumak, «سفر» yazmak anlamındadır.
+= İki mastar da keşfetmek ve ortaya çıkarmak anlamını taşır; ancak «سفر»da maddi, zahiri bir keşif, «فسر»da manevi bir keşif söz konusudur.
+
+? 1 | Hz. Peygamber'in Kur'an'ın tümünü tefsir ettiği görüşü kime aittir?
++ İbn Teymiyye
+- Gazâlî
+- Süyûtî
+- Molla Fenârî
+= Tümünü tefsir ettiği görüşü İbn Teymiyye'nin; çok azını tefsir ettiği görüşü Gazâlî ve Süyûtî'nindir.
+
+? 1 | Rivayetler içinde Hz. Peygamber'in tefsir miktarı yaklaşık ne kadardır?
++ %4
+- %10
+- %25
+- %1
+= Bu tespit İbn Ebî Hâtim'in tefsirindeki 16283 rivayet esas alınarak yapılmıştır.
+
+? 1 | Hz. Peygamber'in tefsirinde "zulüm" kelimesi neyle açıklanmıştır?
++ Şirk
+- Haksız yere mal yemek
+- Yalan
+- Kibir
+= En'âm 82'deki "imanlarına zulüm karıştırmayanlar" ayetindeki zulüm, «إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ» ayetiyle şirk olarak açıklanmıştır.
+
+? 1 | "Ulûmü'l-Kur'ân" tabirinin kullanıldığı ilk eser hangisidir?
++ Hûfî, el-Burhân fî Ulûmi'l-Kur'ân
+- Zerkeşî, el-Burhân fî Ulûmi'l-Kur'ân
+- Muhâsibî, el-Akl ve Fehmü'l-Kur'ân
+- Süyûtî, el-İtkân
+= Hûfî'nin (ö. 430) el-Burhân'ı bu tabirin geçtiği ilk eserdir. Zerkeşî'nin aynı adlı eseri ise usûl kaynakları arasında 1. sıradadır.
+
+? 1 | Tefsir usûlü alanının en eski kitabı hangisidir?
++ Hâris el-Muhâsibî, el-Akl ve Fehmü'l-Kur'ân
+- İbnü'l-Cevzî, Fünûnü'l-Efnân
+- Hûfî, el-Burhân
+- İbn Teymiyye, Mukaddime fî Usûli't-Tefsîr
+= Muhâsibî'nin (ö. 243) el-Akl ve Fehmü'l-Kur'ân'ı alanın en eski usûl kitabıdır.
+
+? 1 | Tefsiri müstakil bir ilim olarak görmeyen, talebesi ise müstakil ilim sayan âlim kimdir?
++ Molla Fenârî
+- Kâfiyecî
+- Süyûtî
+- Zerkeşî
+= Molla Fenârî tefsirin müstakil usulü ve yeterli küllî kaidesi olmadığını düşünür; talebesi Kâfiyecî ise et-Teysîr'de tefsiri müstakil ilim sayar.
+
+? 1 | Şah Veliyyullah ed-Dihlevî, Süyûtî'nin mensuh dediği 20 ayetten kaçında nesih olduğunu kabul eder?
++ 5
+- 10
+- 2
+- 20
+= el-Fevzü'l-Kebîr'de bu 20 ayet tek tek incelenir ve yalnızca beşinde neshin söz konusu olduğu belirtilir.
+
+? 1 | İbn Kesîr'e göre Kur'an'ın en güzel tefsiri hangisidir?
++ Kur'an'ı yine Kur'an ile tefsir etmek
+- Sahabe sözleriyle tefsir etmek
+- Lügatle tefsir etmek
+- Rey ile tefsir etmek
+= İbn Kesîr'e göre sıra şöyledir: Kur'an ile Kur'an, sonra sünnet, sonra sahabe sözleri.
+
+? 2 | Kur'an lafzıyla ilgili en çok taraftar bulan görüş hangisidir?
++ "Okumak" anlamındaki «قرأ» fiilinden «فُعلان» vezninde mastardır (Lihyânî).
+- Hiçbir kökten türememiş özel isimdir (Şâfiî).
+- «قرائن» kelimesinden türemiştir (Ferrâ).
+- «قرن» fiilinden türemiştir (Eş'arî).
+= Lihyânî'nin görüşü en çok taraftar bulan görüştür; Kur'an "okunan" anlamına gelir.
+
+? 2 | Kur'an tarifindeki "tevatür" kaydı neyi dışarıda bırakır?
++ Şaz kıraatleri
+- Hadisleri
+- Tevrat, İncil ve Zebur'u
+- Meleklerin sözünü
+= Tilavetiyle ibadet kaydı hadisleri, "Muhammed'e indirilen" kaydı önceki kitapları, "Allah'ın kelamı" kaydı başkalarının sözünü dışarıda bırakır.
+
+? 2 | Ehl-i Sünnet'e göre Kur'an Cebrâil'e nasıl intikal etmiştir?
++ Cebrâil onu bizzat Allah'tan, mahiyeti bilinmeyen bir tarzda işiterek (semâen) almıştır.
+- Cebrâil onu Levh-i Mahfûz'dan okuyarak almıştır.
+- Görevli melekler 20 gecede ona ulaştırmıştır.
+- Cebrâil'e yalnızca mana ilka edilmiştir.
+= Bu görüşü Taberânî'nin Nevvâs b. Sem'ân'dan rivayet ettiği hadis destekler.
+
+? 2 | Kur'an ile kudsî hadis arasındaki farklardan biri hangisidir?
++ Kudsî hadiste i'caz ve tahaddî yoktur.
+- Kudsî hadisin lafzı da manası da Allah'a aittir.
+- Kudsî hadislerin tamamı mütevatirdir.
+- Kudsî hadis namazda okunur.
+= Kur'an lafzen ve manen Allah'a aittir, mütevatirdir, namazda okunur; kudsî hadiste i'caz yoktur, çoğu âhâddır.
+
+? 2 | Sadık rüya döneminin süresi ve mahiyeti nedir?
++ 6 ay sürmüştür; vahye hazırlıktır, bu yolla Kur'an metni inmemiştir.
+- 3 yıl sürmüştür; Kur'an'ın ilk ayetleri bu yolla inmiştir.
+- 40 gün sürmüştür; Kur'an'ın tamamı bu yolla inmiştir.
+- 6 ay sürmüştür; Fâtiha bu yolla inmiştir.
+= Sadık rüya vahye hazırlıktır; 6 ay sonra peygamberlik verilmiş ve vahiy inmiştir.
+
+? 2 | Melek insan suretinde geldiğinde genellikle hangi sahabinin kılığında gelirdi?
++ Dihye
+- Zeyd b. Sâbit
+- Muâz b. Cebel
+- Übey b. Ka'b
+= Vahyin üçüncü şekli meleğin insan suretinde gelmesidir; genellikle Dihye kılığında gelirdi.
+
+? 2 | Aşağıdakilerden hangisi vahyin belirtilerinden biri değildir?
++ Yüzün kızarması
+- Terleme
+- Arı uğultusu gibi bir ses
+- Devenin çökmesi
+= Vahyin belirtileri: terleme, arı uğultusu, bedenin ağırlaşması ve devenin çökmesidir.
+
+? 2 | Vahyin mahiyeti konusunda "Cebrâil sadece manayı indirdi, Peygamber o manayı lafza döktü" görüşünde aktif olan kimdir?
++ Hz. Peygamber
+- Allah
+- Cebrâil
+- Sahabe
+= Birinci görüşte Allah, ikincisinde Peygamber, üçüncüsünde Cebrâil aktiftir. İkinci görüş sakıncalı bulunur.
+
+? 2 | Nesefî'ye göre Bâtıniyye'nin "Kur'an bâtındır, bu lafızlar değildir" görüşü neden fasittir?
++ Allah Kur'an'ı eşsiz nazmıyla mucize kılmıştır; i'caz nazımdadır.
+- Bâtıniyye hadisleri inkâr ettiği için
+- Bu görüş Kadir gecesiyle çeliştiği için
+- Hz. Peygamber Arapça bilmediği için
+= Nesefî «فَأْتُوا بِسُورَةٍ مِنْ مِثْلِهِ» ve «إِنَّا أَنْزَلْنَاهُ قُرْآنًا عَرَبِيًّا» ayetlerini delil getirir; bu nazımla ilgilidir.
+
+? 3 | Vahyin sözlük anlamlarından "içgüdüsel ilham" hangi örnekle anlatılır?
++ Arıya vahyedilmesi
+- Mûsâ'nın annesine vahyedilmesi
+- Zekeriyyâ'nın kavmine işaret etmesi
+- Meleklere emredilmesi
+= «وَأَوْحَى رَبُّكَ إِلَى النَّحْلِ» ayeti hayvanlardaki içgüdüsel ilhama örnektir; Mûsâ'nın annesi fıtrî ilhama örnektir.
+
+? 3 | Aşağıdakilerden hangisi Kur'an'ın dört özelliğinden biri değildir?
++ Mana ile rivayet edilebilir.
+- Mucizedir.
+- Sübutu kesindir.
+- Lafzıyla eda edilmesi vaciptir.
+= Mana ile rivayet edilebilen, manası vahyedilmiş, lafzı Peygamber'e ait hadistir.
+
+? 3 | Hadîs-i nebevînin iki kısmından "Allah Resûlü'nün içtihadı olan hadis" için hangisi doğrudur?
++ Vahiy değildir; doğru olduğunda vahiy susmasıyla onu ikrar eder.
+- Lafzı ve manası Allah'a aittir.
+- Mana ile rivayet edilemez.
+- Namazda okunur.
+= Manası vahyedilmiş hadisi mana ile rivayet etmek caizdir; içtihad olan hadis ise vahiy değildir, vahyin sükûtuyla onaylanır.
+
+? 3 | "Kur'an, Hz. Peygamber'in sözüdür" iddiasına verilen cevaplardan biri hangisidir?
++ Kur'an'da Peygamber'e itap içeren ayetler vardır; kimse yazdığı kitapta kendini azarlamaz.
+- Hz. Peygamber Kur'an'ı Rum bir demirciden öğrenmiştir.
+- Kur'an'ın üslubu hadislerle aynıdır.
+- Kur'an tek seferde inmiştir.
+= Tebük'te münafıklara izin verme ve Bedir esirleri hakkındaki ayetler, ayrıca İfk hadisesi ve Abese suresi delil gösterilir.
+
+? 3 | Müşriklerin "vahy-i nefsî" iddiasının özü nedir?
++ Kur'an Hz. Peygamber'in keskin zekâ ve ferasetiyle oluşturduğu aklî istinbat ve vicdanî idrakin ürünüdür.
+- Kur'an Rum bir demirciden öğrenilmiştir.
+- Kur'an Rahip Bahîrâ'nın sözleridir.
+- Kur'an Cebrâil'in sözüdür.
+= Cevap: Geçmiş toplumların haberleri, yaratılışın başlangıcı, ahiret ve melekler gibi konular zekâ ve ferasetle bilinemez.
+
+? 4 | Mekkî–Medenî konusunda en uygun kabul edilen kriter hangisidir?
++ Zaman: hicretten önce inen Mekkî, sonra inen Medenî
+- Mekân: Mekke'de inen Mekkî, Medine'de inen Medenî
+- Muhatap: Mekke halkına hitap eden Mekkî
+- Surenin uzunluğu
+= Zaman kriteri kapsayıcı ve tutarlıdır. Muhatap kriteri ise her yerde geçmez.
+
+? 4 | Zaman kriterine göre Veda Haccında Mekke'de inen Mâide 3. ayet nasıl nitelenir?
++ Medenî
+- Mekkî
+- İhtilaflı
+- Hem Mekkî hem Medenî
+= Hicretten sonra indiği için, Mekke'de inse bile zaman kriterine göre Medenîdir.
+
+? 4 | Kur'an'da kaç sure Mekkî kabul edilir?
++ 82
+- 20
+- 12
+- 86
+= 82 sure Mekkî, 20 sure Medenî, 12 sure ihtilaflıdır.
+
+? 4 | Aşağıdakilerden hangisi Mekkî surelerin kaidelerinden biridir?
++ «كَلَّا» lafzının bulunması
+- Farz ve hadlerin bulunması
+- Münafıklardan bahsedilmesi
+- Ehl-i kitapla mücadele bulunması
+= Diğer üçü Medenî surelerin kaideleridir.
+
+? 4 | Münafıklardan bahsettiği hâlde Medenî kabul edilmeyen sure hangisidir?
++ Ankebût
+- Bakara
+- Nisâ
+- Tevbe
+= Medenî kaide: Ankebût hariç münafıklardan bahsedilen sureler Medenîdir.
+
+? 4 | Mekkî ve Medenî ayetlerin bilinmesinde Kur'an'ın çoğu hangi yolla bilinir?
++ Sahabe ve tâbiînden gelen sahih rivayetle
+- Kıyas (özelliklere dayalı içtihad) ile
+- Hz. Peygamber'in açık beyanıyla
+- Surenin uzunluğuyla
+= Hz. Peygamber'den bu konuda söz gelmemiştir, çünkü bununla emrolunmamıştır; bilgi sahabe ve tâbiînden gelir.
+
+? 4 | Mekkî ve Medenî sureler için yapılan benzetme hangisidir?
++ Mekkî çağlayan bir nehir, Medenî durgun bir nehir gibidir.
+- Mekkî durgun bir nehir, Medenî çağlayan bir nehir gibidir.
+- Mekkî deniz, Medenî ırmak gibidir.
+- Mekkî gece, Medenî gündüz gibidir.
+= Mekkî sureler yeminli, sarsıcı ve özlü; Medenî sureler uzun ayetli, yumuşak ve sakin üsluptadır.
+
+? 5 | İlk inen ayetlerle ilgili en sahih görüş hangisidir?
++ Alak suresinin ilk beş ayeti
+- Müddessir suresinin başı
+- Fâtiha suresi
+- Besmele
+= Buhârî ve Müslim'deki Hz. Âişe hadisi delildir; Müddessir fetretten sonra inen ilk ayettir.
+
+? 5 | Müddessir suresinin başı için yapılan izah hangisidir?
++ Fetretü'l-vahiyden sonra inen ilk ayettir.
+- Mutlak olarak ilk inen ayettir.
+- Bütün hâlinde inen ilk suredir.
+- Medine'de inen ilk ayettir.
+= «فَإِذَا الْمَلَكُ الَّذِي جَاءَنِي بِحِرَاءٍ» ifadesi meleğin daha önce geldiğini gösterir.
+
+? 5 | Son inen ayet hakkında en sahih görüş hangisidir?
++ Bakara 281: «وَاتَّقُوا يَوْمًا تُرْجَعُونَ فِيهِ إِلَى اللَّهِ»
+- Mâide 3: «الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ»
+- Nisâ 176 (kelâle ayeti)
+- Nasr suresi
+= Mâide 3'ün en son ayet olduğu meşhur bir hatadır; ribâ, kelâle ve Bakara 281 ondan sonra inmiştir.
+
+? 5 | Müdâyene ayeti hangi konuda inen son ayettir?
++ Muamelat
+- Miras
+- Ribâ
+- Kasten öldürme
+= Kelâle miras, Nisâ 93 kasten mümini öldürme, ribâ ayeti ribâ hakkında son inendir.
+
+? 5 | Âl-i İmrân 195. ayet hakkında hangisi doğrudur?
++ Kadınların zikredildiği üç ayetin sonuncusudur.
+- Miras hakkında inen son ayettir.
+- Fetretten sonra inen ilk ayettir.
+- Bütün hâlinde inen son suredir.
+= Ümmü Seleme'nin soruları üzerine sırasıyla Nisâ 32, Ahzâb 35 ve Âl-i İmrân 195 inmiştir.
+
+? 5 | Savaş hakkında inen ilk ayet hangisidir?
++ «أُذِنَ لِلَّذِينَ يُقَاتَلُونَ بِأَنَّهُمْ ظُلِمُوا» (Hac 39)
+- «وَقَاتِلُوا فِي سَبِيلِ اللَّهِ» (Bakara 190)
+- «إِنَّا فَتَحْنَا لَكَ فَتْحًا مُبِينًا» (Fetih 1)
+- «وَأَعِدُّوا لَهُمْ مَا اسْتَطَعْتُمْ مِنْ قُوَّةٍ» (Enfâl 60)
+= İbn Abbas'a göre savaş hakkında inen ilk ayet Hac 39'dur.
+
+? 5 | Yiyecekler hakkında Mekke'de inen ilk ayet hangisidir?
++ En'âm 145
+- Bakara 173
+- Mâide 3
+- Nahl 114
+= Sıra: En'âm 145 → Nahl 114–115 → Bakara 173 → Mâide 3.
+
+? 6 | Vâhidî'nin Fil olayını sebeb-i nüzûl olarak aktarması neden hatalıdır?
++ Fil olayı risaletten önce yaşanmıştır; bu sadece geçmiş bir olayın haberidir.
+- Fil olayı Medine'de yaşanmıştır.
+- Fil suresi Medenîdir.
+- Fil olayıyla ilgili rivayetler zayıftır.
+= Sebeb-i nüzûl tanımının kilit kaydı olayın Hz. Peygamber'in risalet döneminde vuku bulmasıdır.
+
+? 6 | Tebbet suresinin inişi sebeb-i nüzûlün hangi şekline örnektir?
++ Bir olay meydana gelip Kur'an'ın o olay hakkında inmesi
+- Resûlullah'a bir soru sorulup cevabın inmesi
+- Nüzulün tekerrürü
+- Ayetin hükümden önce inmesi
+= Ebû Leheb'in sözü üzerine inmiştir. Soru üzerine inmeye örnek, Havle'nin sorusu üzerine inen Mücâdele suresidir.
+
+? 6 | Bakara 158'deki «فَلَا جُنَاحَ عَلَيْهِ أَنْ يَطَّوَّفَ بِهِمَا» ifadesinin sebeb-i nüzûlü ne gösterir?
++ Sa'y mubah değil vaciptir; ayet, putlar yüzünden çekinen Müslümanlar için inmiştir.
+- Sa'y yalnızca mubahtır.
+- Sa'y sadece umrede yapılır.
+- Ayet müşrikleri sa'yden men etmek için inmiştir.
+= Cahiliyede Safâ ve Merve'de İsâf ve Nâile adlı putlar vardı; Müslümanlar çekinince ayet indi (Hz. Âişe–Urve olayı).
+
+? 6 | Mervân'ın Âl-i İmrân 188'i anlamakta zorlanması hangi faydaya örnektir?
++ Problemli görülen ayetlerdeki problemin giderilmesi
+- Mübhem ayetlerin anlaşılması
+- Kişiler arasındaki husumetin kaldırılması
+- Hasr şüphesinin kaldırılması
+= İbn Abbas ayetin ehl-i kitap hakkında indiğini açıklayınca problem giderilmiştir.
+
+? 6 | Cumhura göre esbâb-ı nüzûlde hangi kaide geçerlidir?
++ İbret lafzın umumundadır, sebebin hususiliğinde değil.
+- İbret sebebin hususiliğindedir.
+- Ayet yalnız sebebi olan kişiyi bağlar.
+- Sebebi bilinmeyen ayetle amel edilmez.
+= Lian ayeti Hilâl b. Ümeyye hakkında inmiştir ama hüküm başkalarını da kapsar.
+
+? 6 | Aşağıdaki ifadelerden hangisi sebeb-i nüzûle kesin (sarih) delalet eder?
++ «فَأَنْزَلَ اللَّهُ»
+- «نَزَلَتْ هَذِهِ الْآيَةُ فِي كَذَا»
+- «كَانَ الْحَسَنُ يَقُولُ»
+- «قِيلَ»
+= Sarih ifade "sebep" kelimesi veya fâ-i sebebiyye ile olur. "Nezelet fî kezâ" gayr-i sarihtir; tefsir de olabilir.
+
+? 6 | İsrâ 85 «وَيَسْأَلُونَكَ عَنِ الرُّوحِ» hakkındaki iki rivayetten Buhârî'deki neden tercih edilir?
++ İbn Mes'ûd olayın içindedir ve Buhârî Tirmizî'den daha sahihtir.
+- Tirmizî rivayeti mürseldir.
+- Buhârî rivayeti Mekke'de geçer.
+- İki rivayet cem edilmiştir.
+= Bu, ercah olanın tercih edildiği dördüncü duruma örnektir.
+
+? 6 | Nüzulün tekerrürünü kabul eden âlimler kimlerdir?
++ Süyûtî, Zerkeşî ve İbn Teymiyye
+- Taberî, Tahâvî ve Kurtubî
+- Vâhidî, Ca'berî ve Beğavî
+- Muhsin Demirci ve İsmail Cerrahoğlu
+= Muhsin Demirci ise bir ayetin iki defa inmesinin izahını zor bulur.
+
+? 6 | "Benim hakkımda dört ayet nazil oldu" diyen sahabi kimdir?
++ Sa'd b. Ebî Vakkâs
+- Hz. Ömer
+- Zeyd b. Sâbit
+- Abdullah b. Mes'ûd
+= Bu, bir kişi hakkında birden fazla ayet inmesine örnektir; Hz. Ömer'in muvafakatları da bu kabildendir.
+
+? 7 | Kur'an'ın Beytü'l-İzze'ye toptan indirildiği görüşü kimlere aittir?
++ İbn Abbas ve bir cemaat; cumhurun görüşü de bu yöndedir.
+- Şa'bî
+- Bazı müfessirler; delili yoktur.
+- Mukâtil b. Hayyân'a karşı çıkanlar
+= Kurtubî, Mukâtil b. Hayyân'dan bu konuda icma olduğunu nakleder.
+
+? 7 | Şa'bî'ye göre "Kur'an'ı Kadir gecesinde indirdik" ifadesinin anlamı nedir?
++ Kur'an Kadir gecesinde indirilmeye başlanmıştır.
+- Kur'an Kadir gecesinde Beytü'l-İzze'ye toptan inmiştir.
+- Her Kadir gecesinde bir yıllık vahiy inmiştir.
+- Kur'an Kadir gecesinde Levh-i Mahfûz'a yazılmıştır.
+= Her ayet aynı zamanda Kur'an'dır; bir ayete veya sureye de Kur'an denebilir.
+
+? 7 | "Her yılın Kadir gecesinde bir yıllık miktar inmiştir" görüşü nasıl değerlendirilir?
++ Bazı müfessirlerin içtihadıdır; hiçbir delili yoktur.
+- Cumhurun görüşüdür.
+- İcma ile sabittir.
+- İbn Abbas'tan sahih rivayetlerle desteklenir.
+= Bu, Kur'an'ın toptan indirilmesi hakkındaki üçüncü görüştür.
+
+? 7 | Kur'an'ın tedricen indiğine işaret eden kavram hangisidir?
++ İnzâl yerine tenzîl kavramının kullanılması
+- Vahy yerine ilham kavramının kullanılması
+- Kitap yerine Kur'an kavramının kullanılması
+- Sure yerine ayet kavramının kullanılması
+= Şuarâ 192–195, Zümer 1 ve Bakara 23'te "tenzîl" kalıbı geçer.
+
+? 7 | Hz. Ömer, Kur'an'ı kaçar ayet öğrenmeyi tavsiye etmiştir?
++ Beşer beşer
+- Onar onar
+- Üçer üçer
+- Yirmişer yirmişer
+= "Cebrâil Kur'an'ı Hz. Peygamber'e beşer beşer indirirdi" demiştir.
+
+? 7 | İçkinin haram kılınmasındaki ilk aşama hangi ayettir?
++ Nahl 67
+- Bakara 219
+- Nisâ 43
+- Mâide 90
+= Dört aşama: Nahl 67 → Bakara 219 → Nisâ 43 → Mâide 90.
+
+? 7 | Hz. Âişe'nin meşhur sözüne göre Kur'an'da ilk önce ne inmiştir?
++ Cennet ve cehennemin anlatıldığı mufassal sureler
+- Helal ve haram hükümleri
+- İçki ve zinanın yasaklanması
+- Namaz ve oruç hükümleri
+= İnsanlar İslam'a yönelince helal ve haram inmiştir; önce "içki içmeyin" inseydi "asla bırakmayız" derlerdi.
+
+? 8 | Hz. Ebû Bekir döneminde cem'i gerektiren olay hangisidir?
++ Yemâme savaşında çok sayıda kurrânın şehit olması
+- Ermenistan ve Azerbaycan fetihlerindeki kıraat ihtilafı
+- Bi'r-i Maûne'de 70 hâfızın öldürülmesi
+- Hz. Peygamber'in vefatı
+= Hz. Ömer'in teklifinden önce çekinen Hz. Ebû Bekir sonunda işe koyuldu.
+
+? 8 | Bi'r-i Maûne'de öldürülen 70 hâfız neyin delilidir?
++ Hâfızların yedi kişiyle sınırlı olmadığının
+- Kur'an'ın Hz. Peygamber zamanında tek mushafta toplandığının
+- Yedi harfin varlığının
+- Cem-i sânî'nin sebebinin
+= Yedi kişi Kur'an'ın tamamını ezberleyip Resûlullah'a arz edenlerdir; hâfızlar bunlarla sınırlı değildir.
+
+? 8 | Son ayet ile Hz. Peygamber'in vefatı arasındaki süre çoğunluğa göre kaç gündür?
++ 9 gün
+- 81 gün
+- 40 gün
+- 3 gün
+= Bir rivayete göre 81, çoğunluğa göre 9 gündür; bu süre Kur'an'ı toplamaya yetmezdi.
+
+? 8 | Zeyd b. Sâbit'in "züşşehâdeteyn" Huzeyme'nin tek şahitliğiyle mushafa aldığı ayetler hangileridir?
++ Tevbe suresinin son iki ayeti ve Ahzâb 23
+- Bakara 281 ve Nisâ 176
+- Fâtiha ve İhlâs
+- Alak'ın ilk beş ayeti
+= Huzeyme'nin şahitliği iki şahit yerine geçerdi; ayrıca iki şahit şartını Hz. Ebû Bekir koymuştur.
+
+? 8 | Hz. Ebû Bekir döneminde toplanan Kur'an'a "Mushaf" isminin verilmesini kim teklif etmiştir?
++ Abdullah b. Mes'ûd
+- Hz. Ömer
+- Zeyd b. Sâbit
+- Hz. Hafsa
+= Bu nüsha Hz. Ebû Bekir'den Hz. Ömer'e, ondan Hz. Hafsa'ya geçmiştir.
+
+? 8 | Hz. Osman döneminde Iraklılar ile Şamlılar kimin kıraatini okuyordu?
++ Iraklılar İbn Mes'ûd'un, Şamlılar Übey b. Ka'b'ın
+- Iraklılar Übey'in, Şamlılar İbn Mes'ûd'un
+- Iraklılar Zeyd'in, Şamlılar Ali'nin
+- Iraklılar İbn Abbas'ın, Şamlılar Muâz'ın
+= Huzeyfe el-Yemânî gördüklerini Hz. Osman'a anlatmıştır.
+
+? 8 | Hz. Osman'ın istinsah heyetinde lehçe ihtilafında hangi lehçe esas alınmıştır?
++ Kureyş
+- Hüzeyl
+- Temîm
+- Hevâzin
+= Çünkü Kur'an onların diliyle inmiştir.
+
+? 8 | Hz. Osman'ın Medine'de bıraktığı nüshaya ne ad verilmiştir?
++ el-Mushafü'l-İmâm
+- Mushaf-ı Hafsa
+- Mushaf-ı Şerîf
+- Cem-i sâlis
+= Heyet 5 yılda 6 veya 7 nüsha çoğaltmıştır.
+
+? 8 | Kur'an'a hareke koymayı ilk başlatan kimdir?
++ Ebü'l-Esved ed-Düelî
+- Halîl b. Ahmed
+- Nasr b. Âsım
+- Secâvendî
+= Basra valisi Ziyâd b. Sümeyye'nin teklifiyle, «وَرَسُولُهُ» kelimesinin kesreli okunması üzerine başlamıştır. Bugünkü tarzda harekeleme Halîl b. Ahmed'indir.
+
+? 8 | Benzer harfleri ayırmak için yapılan noktalama (i'câm) kimin talebiyle yapılmıştır?
++ Haccâc b. Yûsuf
+- Ziyâd b. Sümeyye
+- Hz. Osman
+- Muâviye
+= Nasr b. Âsım'dan (bir rivayete göre Yahyâ b. Ya'mer'den) istenmiştir.
+
+? 9 | Ayetlerin tertibi hakkında hangisi doğrudur?
++ İcma ile tevkîfîdir.
+- Sahabe içtihadıdır.
+- Kısmen tevkîfî, kısmen içtihadîdir.
+- Hz. Osman'ın tercihidir.
+= Zerkeşî, Ebû Ca'fer İbnü'z-Zübeyr ve Süyûtî icma olduğunu söyler.
+
+? 9 | Hz. Ali'nin mushafı nasıl tertip edilmişti?
++ Nüzul sırasına göre
+- Uzunluğa göre
+- Bakara, Nisâ, Âl-i İmrân sırasıyla
+- Alfabetik olarak
+= İkra' → Müddessir → Kalem → Müzzemmil… Bu, tertibin içtihadî olduğu görüşünün delillerindendir.
+
+? 9 | Surelerin tertibi hakkında tercih edilen görüş hangisidir?
++ Ayetlerin tertibi gibi tevkîfîdir.
+- Tamamen içtihadîdir.
+- Kısmen tevkîfî, kısmen içtihadîdir.
+- Hz. Ebû Bekir'in tercihidir.
+= İbnü'l-Enbârî ve Kirmânî'nin sözleri de bunu destekler.
+
+? 9 | Kur'an'daki en uzun ayet hangisidir?
++ Müdâyene ayeti
+- Âyetü'l-kürsî
+- Kelâle ayeti
+- Bakara 281
+= En uzun sure Bakara, en uzun ayet müdâyene ayetidir.
+
+? 9 | Fâtiha'dan sonraki yedi uzun sureye ne ad verilir?
++ Tıvel
+- Mi'ûn
+- Mesânî
+- Mufassal
+= Bakara, Âl-i İmrân, Nisâ, Mâide, En'âm, A'râf ve Tevbe.
+
+? 9 | Resm-i Osmânî hakkında âlimlerin çoğunun görüşü hangisidir?
++ Tevkîfî değil, Hz. Osman'ın seçtiği bir ıstılahtır; ümmet benimsediği için muhalefet caiz değildir.
+- Tevkîfîdir.
+- Istılâhîdir; ona muhalefete hiçbir engel yoktur.
+- Sahabe döneminde terk edilmiştir.
+= İmam Mâlik ve Ebû Amr ed-Dânî de bu görüştedir. Bâkıllânî ise muhalefete engel görmez.
+
+? 9 | Fâsıla ile ayet başı arasındaki ilişki hangisidir?
++ Her ayet başı fâsıladır, fakat her fâsıla ayet başı değildir.
+- Her fâsıla ayet başıdır.
+- Fâsıla ile seci' aynı şeydir.
+- Fâsıla sadece Mekkî surelerde bulunur.
+= Kur'an'daki uyumlu ifadelere seci' değil fâsıla denir.
+
+? 9 | «وَاللَّيْلِ إِذَا يَسْرِ» ayeti hangi fâsıla çeşidine örnektir?
++ Fâsılada harf hazfi
+- Fâsılada harf ziyadesi
+- Mütevâzî fâsıla
+- Belâgî sebeple kelime dizilimi
+= Burada "yâ" harfi hazfedilmiştir; «الظُّنُونَا» ise harf ziyadesine örnektir.
+
+? 10 | Hz. Ömer ile Hişâm b. Hakîm hangi sureyi farklı okudukları için ihtilaf etmişti?
++ Furkân
+- Fâtiha
+- Bakara
+- Kehf
+= Hz. Peygamber ikisine de "Bu sure böyle indirildi" buyurmuştur.
+
+? 10 | Abdussabûr Şâhin'e göre yedi harf hadislerinin sayısı ve sahih olanları kaçtır?
++ 46 hadis, 34'ü sahih
+- 34 hadis, 7'si sahih
+- 70 hadis, 46'sı sahih
+- 21 hadis, 7'si sahih
+= "Kur'an 7 harf üzere nazil olmuştur" sözü manevi tevatür derecesindedir.
+
+? 10 | "Seb'a" lafzının delaleti konusunda ağır basan görüş hangisidir?
++ Kesretten (çokluktan) kinayedir.
+- Hakiki anlamda yedi sayısıdır.
+- Yedi kıraat imamını gösterir.
+- Yedi sahabiyi gösterir.
+= Mecazi anlamda genişlik ve kolaylık ifade eder.
+
+? 10 | "Yedi harf yedi kabilenin lehçesidir" görüşüne yöneltilen eleştiri hangisidir?
++ Hz. Ömer ile Hişâm ikisi de Kureyşli olduğu hâlde farklı okumuşlardır.
+- Bu görüş Taberî'ye aittir.
+- Kabilelerin sayısı yediden azdır.
+- Bu görüş mütevatir kıraatleri reddeder.
+= Ayrıca bu görüş sahipleri kabilelerin isimlerini zikretmemişlerdir.
+
+? 10 | Muhsin Demirci'ye göre en tutarlı görüş olan "mânâ ile okuma" kimlerin görüşüdür?
++ Taberî ve Tahâvî
+- Ebû Ubeyd ve Beyhakî
+- İbn Kuteybe
+- Zerkeşî ve Süyûtî
+= Kur'an'ın muayyen yerlerinde eş anlamlı kelimeleri birbirinin yerine kullanma kolaylığıdır.
+
+? 10 | Hz. Ömer'in «فَاسْعَوْا إِلَى ذِكْرِ اللَّهِ» ayetini «فَامْضُوا» diye okuması hangi görüşe örnektir?
++ Mânâ ile okuma (el-kırâe bi'l-ma'nâ)
+- Yedi kabilenin lehçesi
+- Takdim ve te'hir
+- Harf ziyadesi
+= Enes'in «أَصْوَبُ», İbn Mes'ûd'un «زَقْيَةً» ve «كَالصُّوفِ» okuyuşları da bu görüşe örnektir.
+
+? 10 | Kıraat ile yedi harf arasındaki fark nedir?
++ Kıraat aynı kelimede med, kasr, hareke gibi değişikliklerdir; yedi harf kelimelerin yapısındaki değişikliktir.
+- İkisi aynı şeydir.
+- Yedi harf yedi imamın kıraatidir.
+- Kıraat kelime değişikliği, yedi harf hareke değişikliğidir.
+= Günümüzdeki yedi kıraat de tek harfe dahildir.
+
+? 10 | Şîa'nın yedi harf meselesindeki yaklaşımı hangisidir?
++ Kur'an tek harf üzere inmiştir; kıraat ihtilafları ravilerden gelir.
+- Kur'an yedi harf üzere inmiş ve hepsi korunmuştur.
+- Yedi harf yedi imamın kıraatidir.
+- Yedi harf sadece Mekke döneminde vardı.
+= Zürâre, Ebû Ca'fer'den aktarır; Şîa mütevatir kıraatlerin de içtihadî olduğunu ileri sürer.

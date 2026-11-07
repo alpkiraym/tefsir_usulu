@@ -1,0 +1,105 @@
+# Geçmiş sınav soruları. Biçim:
+# [Sınav başlığı]
+# ? soru
+# > ünite no:bölüm başlığı (ilgili yer; birden fazla olabilir)
+# = cevap (kaynaktaki bilgilere dayanır; birden fazla satır olabilir)
+# ! not (kaynakta bulunmayan kısımlar için)
+
+[2022 · 1. dönem]
+? Tefsir, İ'câzü'l-Kur'ân, İmam Mushaf, el-Vahyü'n-Nefsî, Resm-i Mushaf, Sarfe Teorisi, Kur'an, Sebeb-i Nüzul, Yedi Harf kavramlarının tanımını yapınız.
+> 1:Tefsirin sözlük ve terim anlamı
+> 2:Kur'an kavramı: lafzın lügat ve terim anlamı
+> 8:C. Hz. Osman zamanında cem' (istinsah)
+> 3:İnkârcıların vahiy etrafındaki şüpheleri
+> 9:Resm-i Osmânî ve bu konudaki görüşler
+> 6:Esbâb-ı nüzûlün tanımı ve iki şekli
+> 10:Yedi harfle ilgili kuvvetli görüşler
+= **Tefsir:** Kur'an'daki kapalılık durumlarını giderip onun ilahî murada uygun biçimde anlaşılmasını sağlamaktır. Kâtib Çelebi: Beşerî güç ölçüsünde ve Arap dili kaidelerinin gerektirdiği ölçüde Kur'an nazmının manasını araştıran ilimdir.
+= **Kur'an:** Hz. Muhammed'e indirilen, mushaflarda yazılı, tevatürle nakledilen, tilaveti ile ibadet edilen ve bir suresiyle bile mucize olan Allah kelamıdır.
+= **İmam Mushaf (el-Mushafü'l-İmâm):** Hz. Osman döneminde çoğaltılıp Kûfe, Basra, Şam, Mekke, Bahreyn ve Yemen'e gönderilen nüshalardan Medine'de bırakılan nüshadır.
+= **el-Vahyü'n-Nefsî:** İnkârcıların, Hz. Peygamber'in keskin zekâ ve ferasetiyle hak ile batılı ilham yoluyla anlayıp Kur'an'ı kendi aklî istinbat ve vicdanî idrakiyle oluşturduğu iddiasıdır. Cevabı: Geçmiş ümmetlerin haberleri, yaratılışın başlangıcı, ahiret ve melekler gibi konular zekâ ve ferasetle bilinemez.
+= **Resm-i Mushaf (Resm-i Osmânî):** Zeyd b. Sâbit ve beraberindeki üç Kureyşlinin Hz. Osman'ın uygun gördüğü özel yazı metoduyla yazdığı mushafın imlasıdır.
+= **Sebeb-i Nüzul:** Hz. Peygamber'in risalet döneminde vuku bulan ve bir veya birkaç ayetin yahut bir surenin inmesine yol açan olay, durum ya da sorudur.
+= **Yedi Harf:** "Kur'an yedi harf üzere indirildi; kolayınıza geleni okuyun" hadisine dayanır. Kuvvetli görüşlere göre yedi kabilenin lehçesi, yedi vecih (tarz) veya muayyen kelimelerde eş anlamlı kelimelerle okuma ruhsatıdır (el-kırâe bi'l-ma'nâ).
+! **İ'câzü'l-Kur'ân** ve **sarfe teorisi** ünitelerde ayrıca tanımlanmıyor. Kaynakta yalnızca Kur'an tarifindeki "i'caz" kaydı (İsrâ 88) ve tedricî nüzulün hikmetlerinden "meydan okuma ve i'caz" geçiyor.
+? Erken dönem tefsir usulü kaynaklarından 5 tanesini müellifleriyle birlikte yazınız.
+> 1:Asli kaynaklar
+= Hâris el-Muhâsibî (ö. 243): el-Akl ve Fehmü'l-Kur'ân (alanın en eski usûl kitabı)
+= el-Hûfî (ö. 430): el-Burhân fî Ulûmi'l-Kur'ân ("Ulûmü'l-Kur'ân" tabirinin geçtiği ilk eser)
+= İbnü'l-Cevzî (ö. 597): Fünûnü'l-Efnân
+= et-Tûfî (ö. 716): el-İksîr fî Kavâidi İlmi't-Tefsîr
+= İbn Teymiyye (ö. 728): Mukaddime fî Usûli't-Tefsîr
+= Tefsir mukaddimelerinden: Taberî (ö. 310), Câmiu'l-Beyân; Râğıb el-İsfahânî (ö. 502), Mukaddimetü't-Tefsîr.
+? Kur'an kıssalarının gerçekte vuku bulmadığına dair iddiaları ve bunlara verilen cevapları yazınız.
+> 3:İnkârcıların vahiy etrafındaki şüpheleri
+= Kaynakta yalnızca ilgili bir cevap var: Kur'an evrenin ilk yaratılışından itibaren geçmiş toplumların haberlerini aktarır; Allah Resûlü muhtelif asırlarda olan bu olayları zekâ, istinbat ve şuurla elde edemez (vahy-i nefsî iddiasına cevap).
+! Kıssalarla ilgili iddialar ve cevapları elimizdeki kaynakta işlenmiyor.
+? Mübhemâtü'l-Kur'ân kavramını açıklayıp mübhemi giderme yollarını yazınız.
+> 6:Esbâb-ı nüzûlün faydaları (7 madde)
+= Kaynakta mübhem, esbâb-ı nüzûlün faydaları arasında geçer: Esbâb-ı nüzûl mübhem ayetlerin anlaşılmasını kolaylaştırır; çünkü mübhemler akılla değil **nakille** tespit edilir.
+= Örnek: Abese suresindeki âmâ Abdullah b. Ümmü Mektûm'dur; «إِنَّ شَانِئَكَ» ayetindeki kişi Âs b. Vâil'dir.
+! Mübhemâtın tanımı ve giderme yollarının ayrıntısı elimizdeki kaynakta yok.
+? Neshi kabul ve reddedenlerin gerekçelerini yazınız.
+> 5:İlk ve son inen âyetleri bilmenin yararları
+> 1:Asli kaynaklar
+= Kaynakta nesih ayrıca işlenmiyor. İlgili bilgiler: İlk ve son inen ayetleri bilmek nâsih-mensûhu ayırt etmeye yarar (sonraki nâsih, önceki mensuh). Şah Veliyyullah ed-Dihlevî, Süyûtî'nin mensuh olduğunu naklettiği 20 ayetten yalnızca 5'inde nesih olduğunu belirtir.
+! Neshi kabul ve reddedenlerin gerekçeleri elimizdeki kaynakta yok.
+
+[Dönem sonu sınavı]
+? Tefsir usulünün asli kaynaklarından 8 müstakil eseri müellifleriyle birlikte yazınız.
+> 1:Asli kaynaklar
+= Hâris el-Muhâsibî: el-Akl ve Fehmü'l-Kur'ân
+= el-Hûfî: el-Burhân fî Ulûmi'l-Kur'ân
+= İbnü'l-Cevzî: Fünûnü'l-Efnân
+= et-Tûfî: el-İksîr fî Kavâidi İlmi't-Tefsîr
+= İbn Teymiyye: Mukaddime fî Usûli't-Tefsîr
+= ez-Zerkeşî: el-Burhân fî Ulûmi'l-Kur'ân
+= el-Kâfiyecî: et-Teysîr fî Kavâidi İlmi't-Tefsîr
+= es-Süyûtî: el-İtkân fî Ulûmi'l-Kur'ân
+= (Dokuzuncusu: Şah Veliyyullah ed-Dihlevî, el-Fevzü'l-Kebîr fî Usûli't-Tefsîr)
+? Aşağıdaki ıstılahları tarif ediniz: Kur'an, Ulûmü'l-Kur'ân, Tefsir, Te'vil, Sarfe Nazariyesi, Sebeb-i Nüzul, Garîbü'l-Kur'ân, Müşkilü'l-Kur'ân, Mübhemâtü'l-Kur'ân ve el-Vücûh ve'n-Nezâir.
+> 2:Kur'an kavramı: lafzın lügat ve terim anlamı
+> 1:Tefsirin sözlük ve terim anlamı
+> 6:Esbâb-ı nüzûlün tanımı ve iki şekli
+= **Kur'an:** Hz. Muhammed'e indirilen, mushaflarda yazılı, tevatürle nakledilen, tilavetiyle ibadet edilen ve bir suresiyle bile mucize olan Allah kelamıdır.
+= **Tefsir:** Kur'an'daki kapalılık durumlarını giderip onun ilahî murada uygun biçimde anlaşılmasını sağlamaktır.
+= **Sebeb-i Nüzul:** Hz. Peygamber'in risalet döneminde vuku bulan ve bir veya birkaç ayetin yahut bir surenin inmesine yol açan olay, durum ya da sorudur.
+= **Mübhemâtü'l-Kur'ân:** Kaynakta yalnızca mübhemlerin akılla değil nakille tespit edildiği belirtilir (Abese: Abdullah b. Ümmü Mektûm; «إِنَّ شَانِئَكَ»: Âs b. Vâil).
+! Ulûmü'l-Kur'ân, te'vil, sarfe nazariyesi, garîbü'l-Kur'ân, müşkilü'l-Kur'ân ve el-vücûh ve'n-nezâir ünitelerde ayrıca tanımlanmıyor. Kaynakta "Ulûmü'l-Kur'ân" tabirinin ilk geçtiği eserin Hûfî'nin el-Burhân'ı olduğu bilgisi var.
+? Kur'an'ın cem'i ifadesi ile ne kastedilmektedir? Kısaca açıklayınız.
+> 8:Kur'an'ın cem'i ve tertibi
+> 8:A. Resûlullah devrinde cem' (hıfz ve kitâbet)
+> 8:B. Hz. Ebû Bekir devrinde cem'
+> 8:C. Hz. Osman zamanında cem' (istinsah)
+= Cem' iki manada kullanılır: **hıfz** (ezberleme) ve **kitâbet** (ayet ve surelerin yazılması).
+= **Cem-i evvel:** Resûlullah zamanında hıfz ve kitâbet; vahiy kâtipleri ayetleri Resûlullah'ın gösterdiği yerlere yazıyordu, ama Kur'an tek mushafta toplanmamıştı.
+= **Cem-i sânî:** Hz. Ebû Bekir zamanında, Yemâme'de kurrânın şehit olması üzerine Hz. Ömer'in teklifiyle Zeyd b. Sâbit'in dağınık yazıları yedi harfi içeren tek mushafta toplaması.
+= **Cem-i sâlis:** Hz. Osman zamanında kıraat ihtilafı üzerine mushafın bir harf ve Kureyş lehçesi üzerinde çoğaltılıp (istinsah) bölgelere gönderilmesi.
+? Kur'an'daki ayetlerin Mekkî veya Medenî oluşu neye göre belirlenmiştir? Görüşleri kısaca yazınız.
+> 4:Mekkî ve Medenî kriteri (zaman, mekân, hitap)
+> 4:Mekkî/Medenî olduğu nasıl bilinir? (Nakil ve kıyas)
+= **1. Zaman:** Hicretten önce inen Mekkî, sonra inen Medenîdir; nerede indiğinin önemi yoktur (Veda Haccında inen Mâide 3 Medenîdir). En uygun görüş budur; kapsayıcı ve tutarlıdır.
+= **2. Mekân:** Hicretten sonra inse bile Mekke ve çevresinde inen Mekkî, Medine ve çevresinde inen Medenîdir.
+= **3. Muhatap:** Mekke halkına hitap eden («يَا أَيُّهَا النَّاسُ») Mekkî, Medine halkına hitap eden («يَا أَيُّهَا الَّذِينَ آمَنُوا») Medenîdir. Bu ölçü tutarlı değildir: Bakara ve Nisâ Medenî olduğu hâlde "Ey insanlar" hitabı içerir.
+= Bilinme yolu: rivayet (sahabe ve tâbiînden; Kur'an'ın çoğu bu yolla) ve kıyas (Mekkî ve Medenînin özelliklerine dayalı içtihad).
+? Aynı ayetle ilgili olarak sebeb-i nüzul rivayetleri birden fazla olduğunda kabul açısından nasıl bir yol takip edileceğini açıklayınız.
+> 6:Rivayetlerin çeşitliliği (aynı âyet için birden fazla sebep varsa)
+> 6:Esbâb-ı nüzûl rivayetleri için kullanılan tabirler ve örnekler
+= 1. Sigalar sarih değilse («نَزَلَتْ هَذِهِ الْآيَةُ فِي كَذَا») maksat tefsirdir; çelişki yoktur.
+= 2. Biri sarih diğeri değilse sarih olana itimat edilir (Bakara 223: Câbir'in sarih rivayeti, İbn Ömer'inki tefsir).
+= 3. İkisi de sarihse isnadı sahih olan tercih edilir (Duhâ suresi: Sahîhayn'daki rivayet).
+= 4. İsnadda da eşitse ercah olan tercih edilir: ravinin olayda hazır olması veya rivayetin daha sahih olması (İsrâ 85: Buhârî'deki İbn Mes'ûd rivayeti).
+= 5. Tercihte de eşitse aralarında cem' yapılır (lian ayetleri: Hilâl b. Ümeyye ve Uveymir).
+= 6. Zaman uzaklığından cem' de mümkün değilse nüzulün tekerrürüne hamledilir (Nahl 126: Uhud ve Mekke fethi). Süyûtî, Zerkeşî ve İbn Teymiyye tekerrürü kabul eder.
+? Hûd suresinin 1. ayetinde Kur'an'ın tamamının muhkem, Zümer suresinin 23. ayetinde tamamının müteşâbih olduğu ifade edilmektedir. Âl-i İmrân suresinin 7. ayetinde ise bazı ayetlerin muhkem, bazılarının müteşâbih olduğu vurgulanmaktadır. Çelişki gibi görünen bu durumu izah ediniz.
+= Muhkem ve müteşâbih elimizdeki kaynakta ayrı bir konu olarak işlenmiyor.
+! Kaynakta muhkem-müteşâbih yalnızca usûl eserlerinde işlenen konular arasında anılıyor (Muhâsibî, Kâfiyecî, Râğıb, Dihlevî).
+? İçtimâî tefsir ekolünün temel özelliklerini kısaca açıklayınız.
+= Tefsir ekolleri elimizdeki kaynakta işlenmiyor.
+! Bu soru kaynağın kapsamı dışında.
+? «لَيْسَ عَلَيْكُمْ جُنَاحٌ أَنْ تَبْتَغُوا فَضْلًا مِنْ رَبِّكُمْ فِي مَوَاسِمِ الْحَجِّ فَإِذَا أَفَضْتُمْ مِنْ عَرَفَاتٍ فَاذْكُرُوا اللَّهَ عِنْدَ الْمَشْعَرِ الْحَرَامِ» Kıraatler belli özellikleri dikkate alınarak mütevatir, âhâd vb. tasnife tabi tutulmuştur. Bu özellikler dikkate alındığında yukarıdaki örnek hangi kıraat çeşidi içinde değerlendirilmelidir?
+> 8:C. Hz. Osman zamanında cem' (istinsah)
+> 2:Kur'an kavramı: lafzın lügat ve terim anlamı
+= Kaynakta bu ifade, **İbn Abbas'ın şahsi nüshasındaki** Bakara 198'in şekli olarak geçer: «فِي مَوَاسِمِ الْحَجِّ» eki tefsir ve açıklama maksadıyla yazılmış özel bir nottur. Hz. Osman'ın istinsahında bu tür notlar mushaflara yazılmamıştır.
+= Kur'an tarifindeki "tevatür" kaydı şaz kıraatleri dışarıda bırakır; bu ek mütevatir değildir ve mushafta yer almaz.
+! Kıraatlerin mütevatir, âhâd, şaz, müdrec gibi tasnifi elimizdeki kaynakta ayrıca işlenmiyor.

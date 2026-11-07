@@ -1,0 +1,88 @@
+# Âyet ve Sûrelerin Tertibi
+> Ayetlerin ve surelerin sıralanışı hakkındaki görüşler, sure ve ayet sayıları, uzunluklarına göre sureler, Resm-i Osmânî ve fâsılalar.
+
+## Âyetlerin tertibi
+- **Sözlükte âyet:** Herhangi bir şeyin varlığını gösteren alamet, işaret, delil, ibret, mucize gibi anlamlara gelir. Çoğulu **ây** veya **âyât**'tır.
+: Âyet = Kur'an'ın sureleri içinde bulunan, Allah'ın kelamından bir söz dizisidir.
+- **Zerkeşî, Ebû Ca'fer İbnü'z-Zübeyr ve Süyûtî** gibi âlimler ayetlerin tertibinin **tevkîfî** olduğunda icma bulunduğunu söylemişlerdir.
+@ وَحَكَى بَعْضُهُمُ الْإِجْمَاعَ عَلَى ذَلِكَ، مِنْهُمُ الزَّرْكَشِيُّ فِي الْبُرْهَانِ، وَأَبُو جَعْفَرِ بْنُ الزُّبَيْرِ فِي مُنَاسَبَاتِهِ إِذْ يَقُولُ: تَرْتِيبُ الْآيَاتِ فِي سُوَرِهَا وَاقِعٌ بِتَوْقِيفِهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَأَمْرِهِ مِنْ غَيْرِ خِلَافٍ بَيْنَ الْمُسْلِمِينَ، وَجَزَمَ السُّيُوطِيُّ بِذَلِكَ فَقَالَ: الْإِجْمَاعُ وَالنُّصُوصُ الْمُتَرَادِفَةُ عَلَى أَنَّ تَرْتِيبَ الْآيَاتِ تَوْقِيفِيٌّ لَا شُبْهَةَ فِي ذَلِكَ | Ayetlerin surelerindeki sıralanışı Hz. Peygamber'in tevkîfi ve emriyledir; Müslümanlar arasında bunda ihtilaf yoktur.
+~ **Osman b. Ebi'l-Âs:** Resûlullah'ın yanındaydım; birden gözü bir noktaya sabitlendi, sonra normale döndü ve "Cebrâil bana geldi ve «إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ وَإِيتَاءِ ذِي الْقُرْبَى» ayetini şu surenin şu yerine koymamı emretti" buyurdu.
+- Halife Hz. Osman Kur'an'ı toplarken tüm ayetleri vahiydeki yerlerine göre sıralamış, hükmü kaldırılmış ayetleri bile metinden çıkarmamıştır.
+* Ayetlerin tertibi icma ile tevkîfîdir (Zerkeşî, İbnü'z-Zübeyr, Süyûtî); delil: Osman b. Ebi'l-Âs rivayeti (Nahl 90).
+
+## Sûrelerin tertibi
+- Âlimler surelerin sıralanışı konusunda ihtilaf etmişlerdir:
+@ اخْتَلَفَ الْعُلَمَاءُ فِي تَرْتِيبِ السُّوَرِ: أ- فَقِيلَ: إِنَّهُ تَوْقِيفِيٌّ تَوَلَّاهُ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَمَا أَخْبَرَ بِهِ جِبْرِيلُ عَنْ أَمْرِ رَبِّهِ. ب- وَقِيلَ: إِنَّ تَرْتِيبَ السُّوَرِ بِاجْتِهَادٍ مِنَ الصَّحَابَةِ بِدَلِيلِ اخْتِلَافِ مَصَاحِفِهِمْ فِي التَّرْتِيبِ. ج- وَقِيلَ: إِنَّ بَعْضَ السُّوَرِ تَرْتِيبُهُ تَوْقِيفِيٌّ وَبَعْضُهَا بِاجْتِهَادِ الصَّحَابَةِ
+### Tevkîfîdir
+- Peygamber Efendimiz, Cebrâil'in kendisine haber verdiği gibi sureleri bu şekilde sıralamıştır. Ayetler bu tertip üzere indiği gibi sureler de bu tertip üzere dizilmiştir.
+- Hz. Osman'ın Mushafındaki sıralama budur; bu tertip üzerinde hiçbir sahabeden ihtilaf nakledilmemiştir. Bu, onların sıralamada ittifak ettiğini gösterir.
+- Zeyd b. Sâbit, **son arzada** Hz. Peygamber'den duyduğu şekilde tertip etmiştir.
+### İctihâdîdir (ve eleştirisi)
+- Sahabenin mushaflarının tertibi farklıydı:
+| Mushaf | Tertip
+| **Hz. Ali** | Nüzul sırasına göre: İkra' → Müddessir → Kalem → Müzzemmil…
+| **İbn Mes'ûd** | Bakara → Nisâ → Âl-i İmrân…
+| **Übey b. Ka'b** | Fâtiha → Bakara → Nisâ → Âl-i İmrân…
+!! **Eleştirisi:** Bu görüş dayanılacak bir delile dayanmaz. Bazı sahabenin kendi özel mushaflarını tertip etmesi, Kur'an tertipli olarak cem edilmeden önce kendi tercihiydi. Hz. Osman döneminde ayet ve sureler sıralı olarak bir harf üzerinde cem edilip ümmet bunda ittifak edince kendi mushaflarını bıraktılar. Tertip ictihâdî olsaydı kendi mushaflarına sarılırlardı.
+### Kısmen tevkîfî, kısmen ictihâdîdir (ve eleştirisi)
+- Bazı surelerin sıralamasının nübüvvet döneminde yapıldığına işaret eden rivayetler vardır: **es-Seb'u't-Tıvâl** (yedi uzun sure), **el-Havâmîm** ve **el-Mufassal** surelerinin Peygamber Efendimizin hayatında sıralandığına dair rivayetler mevcuttur.
+- Resûlullah'ın "**Zehrâveyn'i okuyun: Bakara ve Âl-i İmrân**" buyurduğu rivayet edilmiştir.
+- Hz. Peygamber'in yatağına çekildiğinde sırasıyla **İhlâs, Felak ve Nâs** surelerini okuyup vücuduna üflediği rivayet edilir.
+- **İbn Hacer:** Bu, surelerin şu anki Mushaftaki sıralamasının Resûlullah zamanındaki sıralamaya uygun olduğunu gösterir.
+!! **Eleştirisi:** Bu görüşün delilleri tevkîfî olanı gösteren nasları zikretmeye dayanır. İctihâdî denilen kısım ise tertibinin ictihâdî olduğunu gösteren bir delile dayanmaz. Tevkîfî olanın delilleriyle sabit olması, geri kalanının ictihâdî olduğu anlamına gelmez. Üstelik bu kısım çok azdır.
+### Netice
+@ وَبِهَذَا يَتَرَجَّحُ أَنَّ تَرْتِيبَ السُّوَرِ تَوْقِيفِيٌّ كَتَرْتِيبِ الْآيَاتِ | Böylece surelerin tertibinin de ayetlerin tertibi gibi tevkîfî olduğu tercih edilir.
+- **Ebû Bekir İbnü'l-Enbârî:** Allah Kur'an'ın tamamını dünya semasına indirdi, sonra yirmi küsur yılda parça parça indirdi. Sure bir olay üzerine, ayet bir soruya cevap olarak inerdi; Cebrâil Hz. Peygamber'e ayet ve surenin yerini bildirirdi. Surelerin dizilişi de ayet ve harflerin dizilişi gibi Hz. Peygamber'dendir; bir sureyi öne alan veya geriye bırakan Kur'an'ın nazmını bozmuş olur.
+- **Kirmânî (el-Burhân):** Surelerin tertibi Allah katında Levh-i Mahfûz'da bu şekildedir. Hz. Peygamber her yıl o zamana kadar inenleri Cebrâil'e arz ederdi; vefat ettiği yıl iki defa arz etti.
+| Görüş | Dayanak | Değerlendirme
+| **Tevkîfî** | Cebrâil'in bildirmesi; Osman Mushafındaki tertipte ihtilaf olmaması; son arza | **Tercih edilen görüş**
+| **İctihâdî** | Ali, İbn Mes'ûd ve Übey mushaflarının farklı tertibi | Delile dayanmaz; özel mushaflar cem'den önceki tercihtir
+| **Kısmen tevkîfî, kısmen ictihâdî** | Seb'u't-Tıvâl, Havâmîm, Mufassal, Zehrâveyn rivayetleri | İctihâdî kısım için delil yoktur; o kısım çok azdır
+* Surelerin tertibi: tevkîfî (tercih edilen), ictihâdî (sahabe mushafları farklı), kısmen tevkîfî kısmen ictihâdî. Netice: ayetler gibi sureler de tevkîfîdir.
+
+## Sûrelerin sayısı ve uzunluklarına göre sûreler (Tıvel vb.)
+| Konu | Bilgi
+| Sure sayısı | **114** (Enfâl ve Tevbe'yi tek sure sayıp 113 diyen de vardır)
+| Ayet sayısı | **6200**; fazlası hakkında âlimler ihtilaf etmiştir
+| En uzun ayet | **Müdâyene ayeti** (Bakara 2/282)
+| En uzun sure | **Bakara**
+### Uzunluklarına göre sureler
+| Grup | Tanım
+| **1. Tıvel** | Fâtiha'dan sonraki 7 uzun sure; ayetleri yüzden fazladır: Bakara, Âl-i İmrân, Nisâ, Mâide, En'âm, A'râf, Tevbe.
+| **2. Mi'ûn** | Ayetleri yüzden fazla veya yüze yakın sureler.
+| **3. Mesânî** | Ayet sayısı yüzden az olan sureler.
+| **4. Mufassal** | Kısa ve besmeleli fasılaların çok olduğu sureler. Kâf veya Hucurât ile başladığı hususunda ihtilaf vardır.
+### Mufassalın kısımları
+| Kısım | Aralık
+| **Tıvâl-ı mufassal** | Kâf veya Hucurât ile Nebe' veya Bürûc arası
+| **Evsât-ı mufassal** | Nebe' veya Bürûc ile Duhâ veya Beyyine arası
+| **Kısâr-ı mufassal** | Duhâ veya Beyyine ile Nâs arası
+* 114 sure, 6200 ayet; en uzun ayet müdâyene, en uzun sure Bakara.
+* Uzunluğa göre: Tıvel (7 uzun sure) · Mi'ûn (yüz civarı) · Mesânî (yüzden az) · Mufassal (tıvâl, evsât, kısâr).
+
+## Resm-i Osmânî ve bu konudaki görüşler
+: Resm-i Osmânî = Zeyd b. Sâbit ve beraberindeki üç Kureyşlinin, Hz. Osman'ın uygun gördüğü özel yazı metoduyla yazdıkları Mushafın imlası; âlimler bu usule Hz. Osman'a nispetle bu adı vermişlerdir.
+| Görüş | İçerik | Destekleyenler
+| **1. Tevkîfîdir** | Resm-i Osmânî ile yazılması tevkîfîdir; Kur'an yazılırken ona uyulması gerekir. Bu görüştekiler onu takdiste aşırı gitmişlerdir. | Hz. Peygamber'in kâtibi Muâviye'ye harflerin biçimine dikkat etmesini, "Allah", "Rahmân", "Rahîm" lafızlarını güzel yazmasını, kalemi sol kulağının üzerine koymasını tavsiye ettiği rivayeti. İbnü'l-Mübârek, şeyhi Abdülazîz ed-Debbâğ'dan: Sahabenin veya başkalarının imlaya en küçük müdahalesi yoktur; tamamen Hz. Peygamber'in vahye dayalı emriyle şekillenmiştir.
+| **2. Tevkîfî değildir, ama muhalefet caiz değildir** | Hz. Osman'ın seçip beğendiği bir ıstılahtır; ümmet kabul edip benimsediği için ona muhalefet caiz değildir. **Âlimlerin çoğunun görüşü.** | Eşheb'in aktardığına göre İmam Mâlik: Kur'an sadece ilk yazıldığı imla ile yazılır; mushaftaki vav, elif gibi harflerin değiştirilmesi de caiz değildir. Ebû Amr ed-Dânî bunu nakledip âlimler arasında ihtilaf olmadığını belirtir.
+| **3. Istılâhîdir, muhalefete engel yoktur** | İnsanlar imla için özel bir yazıda ittifak etmiş ve bu yayılmıştır. | Kadı Ebû Bekir el-Bâkıllânî (el-İntisâr): Allah ümmete belirli bir yazı şekli farz kılmamıştır; vacip olsaydı Resûlullah'tan işitilen bir rivayetle bilinirdi. Kur'an'da ve sünnette bağlayıcı hüküm yoktur; sahabe yazımda farklı tercihler kullanmıştır.
+* Resm-i Osmânî: tevkîfî (Debbâğ) · ıstılâhî ama muhalefet caiz değil (çoğunluk, İmam Mâlik, Dânî) · ıstılâhî ve muhalefet caiz (Bâkıllânî).
+
+## Fâsılalar ve âyet başları; fâsıla çeşitleri
+| Kavram | Tanım
+| **Fâsıla** | Bir sözün kendisinden sonrakinden ayrıldığı yer; bazen ayet başı olur, bazen olmaz.
+| **Ayet başı** | Bir ayetin bittiği yer.
+| **Seci'** | Sözlerin belirli bir vezne göre art arda gelmesi.
+! Âlimlere göre **her ayet başı bir fâsıladır, fakat her fâsıla ayet başı değildir.**
+!! Bazıları Kur'an'da seci' bulunduğunu iddia etse de **Kadı Ebû Bekir el-Bâkıllânî** ve birçok âlim buna karşı çıkar: Kur'an'ın üslubu ediplerin ve kâhinlerin sözünden yüksektir ve seci' yapmak amacıyla söylenmemiştir. Kur'an'daki uyumlu ifadelere seci' değil **fâsıla** denir; böylece Kur'an'a manadan bağımsız seci' isnad edilmemiş olur.
+### Kur'an-ı Kerîm'deki fâsıla çeşitleri
+| Çeşit | Açıklama | Örnek
+| **1. Birbirine benzeyen** | Ayet sonları hem lafız hem ses olarak benzer | «وَالطُّورِ، وَكِتَابٍ مَسْطُورٍ، فِي رَقٍّ مَنْشُورٍ، وَالْبَيْتِ الْمَعْمُورِ»
+| **2. Harfleri birbirine yakın** | Ayet sonundaki harfler şekil veya ses bakımından yakın | «الرَّحْمَنِ الرَّحِيمِ، مَالِكِ يَوْمِ الدِّينِ»
+| **3. Mütevâzî** | Hem vezin hem seci' yönünden uyum | «فِيهَا سُرُرٌ مَرْفُوعَةٌ، وَأَكْوَابٌ مَوْضُوعَةٌ»
+| **4. Mütevâzin** | Sadece vezin dikkate alınır, seci' uyumu aranmaz | «وَنَمَارِقُ مَصْفُوفَةٌ، وَزَرَابِيُّ مَبْثُوثَةٌ»
+| **5. Harf ziyadesi** | Vezin veya seci' için harf eklenir | «وَتَظُنُّونَ بِاللَّهِ الظُّنُونَا»: "elif" fazladan eklenmiştir
+| **6. Harf hazfi** | Son kısımda bir harf düşürülür | «وَاللَّيْلِ إِذَا يَسْرِ»: "yâ" harfi hazfedilmiştir
+| **7. Belâgî sebeple kelime dizilimi** | Anlam ve etki gücü için dizilim değişir | «فَأَوْجَسَ فِي نَفْسِهِ خِيفَةً مُوسَى»: fail "Mûsâ" başta gelmeliyken sona bırakılmıştır
+* Her ayet başı fâsıladır, her fâsıla ayet başı değildir. Kur'an'daki uyuma seci' değil fâsıla denir (Bâkıllânî).
+* Fâsıla çeşitleri: benzeyen · harfleri yakın · mütevâzî (vezin + seci') · mütevâzin (sadece vezin) · harf ziyadesi (ez-zunûnâ) · harf hazfi (yesr) · belâgî dizilim (hîfeten Mûsâ).

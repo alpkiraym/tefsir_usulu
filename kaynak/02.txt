@@ -1,0 +1,136 @@
+# Kur'an, Vahiy Kavramları ve Vahyin Nüzûlü
+> Kur'an lafzının anlamı ve tarifi, Kur'an'ın Cebrâil'e ve Hz. Peygamber'e intikali, Kur'an'ın isimleri, hadis ve kudsî hadis, vahyin geliş şekilleri, belirtileri ve mahiyeti.
+
+## Kur'an kavramı: lafzın lügat ve terim anlamı
+### Lügat anlamı
+| Görüş | Kimin görüşü | Açıklama
+| **1. Hiçbir kökten türememiştir (mürtecel)** | İmam Şâfiî | Özel bir isimdir. Kıraat mastarından türeseydi her okunana Kur'an denirdi.
+| **2-A. Hemzesiz bir kökten:** «قرائن» | Yahyâ b. Ferrâ (ö. 207) | «قرينة» kelimesinin çoğulu «قرائن»den türemiştir; hemze aslından değil, «ي» harfinin yerine gelmiştir. Ayetler birbirine delil ve burhandır.
+| **2-A. Hemzesiz bir kökten:** «قرن» | Ebü'l-Hasen el-Eş'arî (ö. 324) | Bir şeyi diğerine yaklaştırmak ve bitiştirmek anlamında «قرن» fiilinden; çünkü sure ve ayetler birbirine bitişiktir.
+| **2-B. Hemzeli bir kökten:** «القرء» (toplamak) | Katâde (ö. 118), Ebû Ubeyd Kâsım b. Sellâm (ö. 224), Zeccâc (ö. 311) | «فُعلان» vezninde sıfattır. Kur'an kıssa, emir, nehiy, va'd, va'îd, sure ve ayetleri topladığı için bu isim verilmiştir.
+| **2-B. Hemzeli bir kökten:** «قرأ» (okumak) | Ebü'l-Hasen Ali b. Hâzim el-Lihyânî (ö. 215) | «فُعلان» vezninde mastardır; "okunan" anlamına gelir. **En çok taraftar bulan görüş budur.**
+### Terim anlamı
+@ الْقُرْآنُ هُوَ كَلَامُ اللَّهِ الْمُنَزَّلُ عَلَى النَّبِيِّ مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، الْمَكْتُوبُ فِي الْمَصَاحِفِ، الْمَنْقُولُ بِالتَّوَاتُرِ، الْمُتَعَبَّدُ بِتِلَاوَتِهِ، الْمُعْجِزُ وَلَوْ بِسُورَةٍ مِنْهُ
+: Kur'an = Hz. Muhammed'e indirilen, mushaflarda yazılı, tevatürle nakledilen, tilaveti ile ibadet edilen ve bir suresiyle bile mucize olan Allah kelamıdır.
+- Tarifteki her bir cümle bir şeyi dışarıda bırakır (ihtiraz):
+| Tarifteki kayıt | Dışarıda bıraktığı
+| Allah'ın kelamı | Peygamberlerin, meleklerin ve cinlerin sözü
+| Muhammed'e indirilen | Tevrat, İncil ve Zebur
+| Mushafta yazılı olmalı | Mushafta yer almayan ayet değildir
+| Tevatür | Şaz kıraatler
+| Tilaveti ile ibadet | Hadisler
+| İ'caz oluşu | (İsrâ 17/88)
+@ قُلْ لَئِنِ اجْتَمَعَتِ الْإِنْسُ وَالْجِنُّ عَلَى أَنْ يَأْتُوا بِمِثْلِ هَذَا الْقُرْآنِ لَا يَأْتُونَ بِمِثْلِهِ وَلَوْ كَانَ بَعْضُهُمْ لِبَعْضٍ ظَهِيرًا | İsrâ 17/88
+* Kur'an kelimesi: Şâfiî'ye göre türememiş özel isim; en çok taraftar bulan görüş Lihyânî'nin "okumak" (قرأ) kökünden mastar olduğudur.
+* Tarifin kayıtları: Allah kelamı · Hz. Muhammed'e inen · mushafta yazılı · tevatür · tilavetiyle ibadet · i'caz.
+
+## Kur'an'ın Cebrâil'e intikali
+- Bu konuda 3 görüş vardır:
+1. Cebrâil, Kur'an vahyini **Levh-i Mahfûz**'dan almıştır.
+2. Bazı görevli melekler tarafından **20 gecede** Cebrâil'e intikal ettirilmiştir.
+3. Kur'an'ı Cebrâil bizzat Allah'tan, mahiyeti bilinmeyecek tarzda **semâen** (işiterek) almıştır. **Ehl-i Sünnet'in görüşüdür.**
+### Ehl-i Sünnet'in görüşünü destekleyen hadis
+@ وَيُؤَيِّدُهُ مَا أَخْرَجَهُ الطَّبَرَانِيُّ مِنْ حَدِيثِ النَّوَّاسِ بْنِ سَمْعَانَ مَرْفُوعًا: إِذَا تَكَلَّمَ اللَّهُ بِالْوَحْيِ أَخَذَتِ السَّمَاءَ رَجْفَةٌ شَدِيدَةٌ مِنْ خَوْفِ اللَّهِ، فَإِذَا سَمِعَ أَهْلُ السَّمَاءِ صَعِقُوا وَخَرُّوا سُجَّدًا، فَيَكُونُ أَوَّلَهُمْ يَرْفَعُ رَأْسَهُ جِبْرِيلُ، فَيُكَلِّمُهُ اللَّهُ بِوَحْيِهِ بِمَا أَرَادَ، فَيَنْتَهِي بِهِ إِلَى الْمَلَائِكَةِ، فَكُلَّمَا مَرَّ بِسَمَاءٍ سَأَلَهُ أَهْلُهَا: مَاذَا قَالَ رَبُّنَا؟ قَالَ: الْحَقَّ، فَيَنْتَهِي بِهِ حَيْثُ أُمِرَ | Allah vahiyle konuştuğunda gök şiddetle sarsılır; gök ehli bayılıp secdeye kapanır. İlk başını kaldıran Cebrâil olur; Allah ona vahyini söyler, o da emrolunduğu yere ulaştırır.
+* Cebrâil'e intikal: Levh-i Mahfûz'dan · görevli meleklerden 20 gecede · Allah'tan semâen (Ehl-i Sünnet).
+
+## Kur'an'ın Hz. Peygamber'e intikali
+1. **Levh-i Mahfûz'dan bir bütün olarak Beytü'l-İzze'ye**, yani dünya semasına; oradan da olaylara göre müneccemen (parça parça) Hz. Peygamber'e nazil olmuştur.
+@ أَنَّهُ نَزَلَ إِلَى سَمَاءِ الدُّنْيَا لَيْلَةَ الْقَدْرِ جُمْلَةً وَاحِدَةً، ثُمَّ نَزَلَ بَعْدَ ذَلِكَ مُنَجَّمًا فِي عِشْرِينَ سَنَةً أَوْ فِي ثَلَاثٍ وَعِشْرِينَ أَوْ خَمْسٍ وَعِشْرِينَ
+2. **Her yılın Kadir gecesinde 1 yıllık vahiy** nazil oluyordu.
+@ أَنَّهُ نَزَلَ إِلَى سَمَاءِ الدُّنْيَا فِي عِشْرِينَ لَيْلَةَ قَدْرٍ مِنْ عِشْرِينَ سَنَةً، فِي كُلِّ لَيْلَةٍ مَا يُقَدِّرُ اللَّهُ سُبْحَانَهُ إِنْزَالَهُ فِي كُلِّ السَّنَةِ، ثُمَّ يَنْزِلُ بَعْدَ ذَلِكَ مُنَجَّمًا فِي جَمِيعِ السَّنَةِ عَلَى رَسُولِ اللَّهِ
+3. **Kadir gecesinde inmeye başlayarak** 23 yıl içerisinde olaylara göre müneccemen indirilmiştir.
+@ أَنَّهُ ابْتُدِئَ إِنْزَالُهُ فِي لَيْلَةِ الْقَدْرِ، ثُمَّ نَزَلَ بَعْدَ ذَلِكَ مُنَجَّمًا فِي أَوْقَاتٍ مُخْتَلِفَةٍ مِنْ سَائِرِ الْأَوْقَاتِ
+* Hz. Peygamber'e intikal: Beytü'l-İzze'ye toptan, sonra parça parça · her Kadir gecesinde bir yıllık · Kadir gecesinde başlayıp 23 yılda.
+
+## Kur'an'ın isimleri
+| İsim | Anlamı
+| **Kur'ân** | En meşhur ismi.
+| **Kitâb** | Cem etme anlamına gelir. Birçok kıssa ve haberi cem ettiği için Kur'an'a kitap denilmiştir.
+| **Nûr** | Hakikatlere ışık tutan, salt akılla ulaşamayacağımız hakikatleri ortaya koyan.
+| **Furkân** | Helal ile haramı, hak ile batılı, iman ile küfrü ayıran.
+@ وَمِنْهُ الْكَتِيبَةُ لِلْجَيْشِ لِاجْتِمَاعِهَا، ثُمَّ أُطْلِقَتْ عَلَى الْكِتَابَةِ لِجَمْعِهَا الْحُرُوفَ | Askerî birliğe toplu olduğu için "katîbe" denir; sonra harfleri bir araya topladığı için yazıya da bu ad verilmiştir.
+### Muhammed Abdullah Dırâz: "Kur'an" ve "Kitap" isimlerinin birlikte kullanılmasının hikmeti
+@ إِشَارَةٌ إِلَى أَنَّ مِنْ حَقِّهِ الْعِنَايَةَ بِحِفْظِهِ فِي مَوْضِعَيْنِ لَا فِي مَوْضِعٍ وَاحِدٍ، أَعْنِي أَنَّهُ يَجِبُ حِفْظُهُ فِي الصُّدُورِ وَالسُّطُورِ جَمِيعًا | Kur'an'ın hem göğüslerde (ezber) hem satırlarda (yazı) korunması gerektiğine işarettir. Hâfıza da kâtibe de tek başına güvenilmez; mütevatir ve sahih isnadla gelenle örtüşmesi gerekir.
+@ يَا أَيُّهَا النَّاسُ قَدْ جَاءَكُمْ بُرْهَانٌ مِنْ رَبِّكُمْ وَأَنْزَلْنَا إِلَيْكُمْ نُورًا مُبِينًا | Nisâ 4/174 (Nûr)
+@ تَبَارَكَ الَّذِي نَزَّلَ الْفُرْقَانَ عَلَى عَبْدِهِ لِيَكُونَ لِلْعَالَمِينَ نَذِيرًا | Furkân 25/1 (Furkân)
+* Kur'an'ın isimleri: Kur'ân (en meşhur), Kitâb (cem etmek), Nûr, Furkân.
+* Dırâz: Kur'an (okunan, ezber) + Kitap (yazılan) = hem sadırda hem satırda korunma.
+
+## Hadîs-i nebevî ve kısımları
+: Hadis = Hz. Peygamber'e nispet edilen söz, fiil, takrir veya sıfattır.
+@ مَا أُضِيفَ إِلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنْ قَوْلٍ أَوْ فِعْلٍ أَوْ تَقْرِيرٍ أَوْ صِفَةٍ
+| Tür | Örnek
+| **Söz (kavlî)** | «إِنَّمَا الْأَعْمَالُ بِالنِّيَّاتِ»
+| **Fiil (fiilî)** | Namazın kılınışını öğretip «صَلُّوا كَمَا رَأَيْتُمُونِي أُصَلِّي» demesi; haccın keyfiyeti ve «خُذُوا عَنِّي مَنَاسِكَكُمْ»
+| **Takrir** | Sahabenin bir söz veya fiilini bilip onaylaması: sofrasında keler yenmesi; namazlarını İhlâs suresiyle bitiren sahabiye "Allah'ın onu sevdiğini haber verin" demesi
+| **Sıfat** | «كَانَ دَائِمَ الْبِشْرِ، سَهْلَ الْخُلُقِ، لَيِّنَ الْجَانِبِ، لَيْسَ بِفَظٍّ وَلَا غَلِيظٍ»
+### Hadîs-i nebevînin iki kısmı
+| Kısım | Tanım
+| **1. Tevkîfî** | Hz. Peygamber'in vahiyden aldığı manayı kendi sözüyle insanlara açıklamasıdır. Muhtevası Allah'a ait olsa da söz olarak Hz. Peygamber'e nispet edilir; çünkü söz, manayı başkasından almış olsa bile söyleyene nispet edilir.
+| **2. Tevfîkî** | Hz. Peygamber'in Kur'an'ı anlamasından veya düşünüp içtihad etmesinden çıkardığı hükümdür. Doğruysa vahiy onu onaylar; cüz'î bir hata olursa vahiy doğrusunu indirir. Bu kısım kesinlikle Allah kelamı değildir.
+* Hadis: söz, fiil, takrir, sıfat.
+* Hadîs-i nebevî: tevkîfî (mana vahiyden, lafız Peygamber'den) ve tevfîkî (içtihad, vahiy onaylar veya düzeltir).
+
+## Kudsî hadis; Kur'an ile kudsî hadisin farkı
+: Kudsî Hadis = Hz. Peygamber'in Allah'a nispet ederek, onun kelamı olarak rivayet ettiği hadistir; Peygamber burada Allah'ın sözünü kendi lafzıyla nakleden bir ravidir.
+@ هُوَ مَا يُضِيفُهُ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِلَى اللَّهِ تَعَالَى، أَيْ إِنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَرْوِيهِ عَلَى أَنَّهُ مِنْ كَلَامِ اللَّهِ، فَالرَّسُولُ رَاوٍ لِكَلَامِ اللَّهِ بِلَفْظٍ مِنْ عِنْدِهِ
+~ Ebû Hüreyre'den: Resûlullah şöyle buyurdu: "Allah Teâlâ buyurur ki: Ben kulumun beni zannı üzereyim." «يَقُولُ اللَّهُ تَعَالَى: أَنَا عِنْدَ ظَنِّ عَبْدِي بِي»
+### Kur'an ile kudsî hadis farkı
+| | Kur'an | Kudsî hadis
+| Lafız ve mana | Lafzen ve manen Allah'a ait | Manen Allah'a, lafzen Peygamber'e ait
+| İ'caz ve tahaddî | Vardır | Yoktur
+| Sübût | Tamamı mütevatir, sübutu kat'î | Çoğunluğu âhâd; sahih, hasen veya zayıf olabilir
+| Nispet | Sadece Allah'a isnad edilir | Peygamber'in diliyle aktarıldığı için Peygamber'e de nispet edilebilir
+| İbadet | Tilavetiyle ibadet edilir, namazda okunur | Böyle bir durum yoktur
+* Kudsî hadis: mana Allah'tan, lafız Peygamber'den; i'caz yok, çoğu âhâd, namazda okunmaz.
+
+## Genel olarak vahiy
+### Sözlük anlamı
+1. **Gizlice bildirmek.** İbn Fâris: «أَصْلٌ يَدُلُّ عَلَى إِلْقَاءِ عِلْمٍ فِي إِخْفَاءٍ إِلَى غَيْرِكَ»
+2. **Hızlıca işaret etmek.**
+3. **İlham etmek:** «وَأَوْحَيْنَا إِلَى أُمِّ مُوسَى أَنْ أَرْضِعِيهِ» (Kasas 28/7)
+4. **Vesvese vermek:** «وَإِنَّ الشَّيَاطِينَ لَيُوحُونَ إِلَى أَوْلِيَائِهِمْ لِيُجَادِلُوكُمْ» (En'âm 6/121)
+### Terim anlamı
+@ هُوَ إِعْلَامُ اللَّهِ تَعَالَى لِمَنِ اصْطَفَاهُ مِنْ عِبَادِهِ بِطَرِيقٍ خَفِيٍّ سَرِيعٍ
+: Vahiy = Allah'ın Peygamber'e hızlı ve gizli yolla bildirmesidir.
+* Vahiy sözlükte: gizlice bildirmek, hızlıca işaret, ilham, vesvese. Terimde: Allah'ın seçtiği kuluna hızlı ve gizli bildirmesi.
+
+## Vahyin geliş şekilleri/mertebeleri
+- Allah 3 yolla iletişim kurar: vahiy, perde arkası ve elçi gönderme.
+@ وَمَا كَانَ لِبَشَرٍ أَنْ يُكَلِّمَهُ اللَّهُ إِلَّا وَحْيًا أَوْ مِنْ وَرَاءِ حِجَابٍ أَوْ يُرْسِلَ رَسُولًا فَيُوحِيَ بِإِذْنِهِ مَا يَشَاءُ إِنَّهُ عَلِيٌّ حَكِيمٌ | Şûrâ 42/51
+! **Perde** ifadesi somut bir nesne değildir; Allah'ın zatının görülemeyeceğinin temsili bir ifadesidir. Allah zatını göstermeksizin muhatabına işittirdiği bir ses ile konuşur. Taberî: «يُكَلِّمُهُ بِحَيْثُ يَسْمَعُ كَلَامَهُ وَلَا يَرَاهُ، كَمَا كَلَّمَ مُوسَى» Fizik âlemine ait olan sesin her türlüsünün Allah'ın zatına nispeti O'nun aşkın sıfatıyla bağdaşmaz; konuşan Allah'tır, fakat duyulan ses iletmek istediği manaların taşıyıcısı olarak yarattığı fizikî bir olgudur.
+### Yedi şekil
+| # | Şekil | Açıklama / örnek
+| 1 | **Sadık rüya** | Bu yolla Kur'an metni indirilmemiştir; vahye hazırlıktır. **6 ay** sürmüş, sonra peygamberlik verilmiş ve vahiy inmiştir.
+| 2 | **Meleğin görünmeden kalbe ilkası** | Hz. Peygamber uyanıkken melek görünmeden gelip kalbine bırakır. «نَزَلَ بِهِ الرُّوحُ الْأَمِينُ عَلَى قَلْبِكَ لِتَكُونَ مِنَ الْمُنْذِرِينَ» Örnek: «إِنَّ رُوحَ الْقُدُسِ نَفَثَ فِي رُوعِي أَنَّ نَفْسًا لَنْ تَمُوتَ حَتَّى تَسْتَكْمِلَ رِزْقَهَا، فَاتَّقُوا اللَّهَ وَأَجْمِلُوا فِي الطَّلَبِ»
+| 3 | **Meleğin insan şeklinde gelmesi** | Cibrîl hadisi. Genelde sahabeden **Dihye** kılığında gelirdi.
+| 4 | **Çıngırak sesine benzer bir sesle** | Hâris b. Hişâm'ın sorusuna cevap: «أَحْيَانًا يَأْتِينِي مِثْلَ صَلْصَلَةِ الْجَرَسِ، وَهُوَ أَشَدُّهُ عَلَيَّ… وَأَحْيَانًا يَتَمَثَّلُ لِيَ الْمَلَكُ رَجُلًا»
+| 5 | **Meleğin kendi aslî suretinde** | İki defa olmuştur: biri yeryüzünde, diğeri Mi'rac gecesi Sidretü'l-Müntehâ'da (Necm 53/13–18).
+| 6 | **Perde arkasından Allah'ın konuşması** («مِنْ وَرَاءِ حِجَابٍ») | Hz. Mûsâ'ya Tûr'da olduğu gibi (Kasas 28/30). Mi'rac gecesi beş vakit namaz farz kılındıktan sonra: «أَمْضَيْتُ فَرِيضَتِي وَخَفَّفْتُ عَنْ عِبَادِي»
+| 7 | **Uyanıkken hiçbir vasıta olmadan Allah'ın konuşması** («إِلَّا وَحْيًا») | Mi'rac gecesi göklerin üstünde namazların farz kılınması ve iyiliklerin on katıyla karşılık bulması gibi.
+! 2, 3, 4 ve 5. maddeler «أَوْ يُرْسِلَ رَسُولًا فَيُوحِيَ بِإِذْنِهِ مَا يَشَاءُ» kısmına girer.
+@ عَنْ عَائِشَةَ: أَوَّلُ مَا بُدِئَ بِهِ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنَ الْوَحْيِ الرُّؤْيَا الصَّادِقَةُ فِي النَّوْمِ، فَكَانَ لَا يَرَى رُؤْيَا إِلَّا جَاءَتْ مِثْلَ فَلَقِ الصُّبْحِ | Sadık rüya: Gördüğü her rüya sabah aydınlığı gibi çıkardı; sonra Hira'da inzivayı sevdi.
+@ وَلَقَدْ رَآهُ نَزْلَةً أُخْرَى، عِنْدَ سِدْرَةِ الْمُنْتَهَى، عِنْدَهَا جَنَّةُ الْمَأْوَى، إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَى، مَا زَاغَ الْبَصَرُ وَمَا طَغَى، لَقَدْ رَأَى مِنْ آيَاتِ رَبِّهِ الْكُبْرَى | Necm 53/13–18 · Meleğin aslî suretinde görülmesi
+* Şûrâ 51: vahiy · perde arkası · elçi göndermek.
+* Vahyin 7 şekli: sadık rüya (6 ay, hazırlık) · kalbe ilka · insan suretinde melek (Dihye) · çıngırak sesi (en ağırı) · aslî surette melek (2 defa) · perde arkası · vasıtasız konuşma (Mi'rac).
+
+## Vahyin belirtileri
+| Belirti | Rivayet
+| **1. Terleme** | Hz. Âişe: Çok soğuk günde vahiy inerken gördüm; vahiy bitince alnından ter boşanırdı. «وَإِنَّ جَبِينَهُ لَيَتَفَصَّدُ عَرَقًا»
+| **2. Arı uğultusu** | Hz. Ömer: Vahiy inerken yüzünün yanında arı uğultusu gibi bir ses işitilirdi. «دَوِيٌّ كَدَوِيِّ النَّحْلِ» Sonra Mü'minûn suresinin ilk on ayeti indi.
+| **3. Bedeninin ağırlaşması** | Zeyd b. Sâbit: "Oturanlar ile cihad edenler bir olmaz" ayetini yazdırırken İbn Ümmü Mektûm geldi; vahiy indi, Resûlullah'ın uyluğu dizimin üstündeydi, uyluğumun ezileceğinden korktum; sonra «غَيْرُ أُولِي الضَّرَرِ» indi.
+| **4. Devenin çökmesi** | Hz. Âişe: Devesinin üstündeyken vahiy inerse deve göğsünü yere vururdu. «فَتَضْرِبُ بِجِرَانِهَا»
+* Vahyin belirtileri: terleme · arı uğultusu · bedenin ağırlaşması · devenin çökmesi.
+
+## Vahyin mahiyeti; Nesefî tefsirinde geçen bilgi
+- Hz. Peygamber'e indirilen hakkında üç görüş vardır: «فِي الْمُنَزَّلِ عَلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ثَلَاثَةُ أَقْوَالٍ»
+| Görüş | Aktif olan | Açıklama
+| **1. Lafız ve mana birlikte vahyedildi** | Allah aktif; Cebrâil ve Peygamber pasif | «أَنَّهُ اللَّفْظُ وَالْمَعْنَى، وَأَنَّ جِبْرِيلَ حَفِظَ الْقُرْآنَ مِنَ اللَّوْحِ الْمَحْفُوظِ وَنَزَلَ بِهِ»
+| **2. Cebrâil sadece manayı indirdi** | Peygamber aktif | Peygamber o manayı lafza döktü; «نَزَلَ بِهِ الرُّوحُ الْأَمِينُ عَلَى قَلْبِكَ» ayetine tutunurlar.
+| **3. Cebrâil'e yalnız mana ilka edildi** | Cebrâil aktif | Cebrâil manayı Arapça ifade etti; Hz. Peygamber de Cebrâil'in Arapçalaştırdığı ifadeyi bize aktardı.
+### Nesefî tefsirinde geçen bilgi
+- Bâtıniyye: "Kur'an, Resûlullah'a okuduğumuz harflerle inmemiştir; kalbine bir ilham indirilmiş, Hz. Muhammed onu Arapça ve bu harflerle ifade etmiştir. Kur'an o bâtındır, bu lafızlar değildir" demiştir. Delilleri «نَزَّلَهُ عَلَى قَلْبِكَ» ayetidir.
+- Nesefî: Bu görüş fasittir; çünkü Allah Kur'an'ı eşsiz nazmıyla mucize kılmıştır. «فَأْتُوا بِسُورَةٍ مِنْ مِثْلِهِ» ve «إِنَّا أَنْزَلْنَاهُ قُرْآنًا عَرَبِيًّا» buyurmuştur; bu, nazımla ilgilidir.
+!! Günümüzde bazı araştırmacılar da manayı Peygamber'in lafza döktüğü görüşünü savunmaktadır. Bu görüş **sakıncalıdır**: Hz. Peygamber bir beşerdir; Kur'an'ın nazmı peygamber de olsa bir insana bırakılmayacak kadar önemlidir. Kur'an'ın mevsukiyetine zarar verebilir; Peygamber'in manayı lafza aktarmadaki başarısı tartışılabilir hâle gelir. Ayrıca az çok Arapça bilen biri hadislerle ayetlerin i'caz yönünün farklı olduğunu kavrar; Kur'an nazmı Peygamber'in lafzı olsaydı hadislerle üslubu aynı olurdu.
+* Vahyin mahiyeti: lafız + mana (Allah aktif) · yalnız mana, lafız Peygamber'den (Peygamber aktif) · mana Cebrâil'e, Arapçası Cebrâil'den (Cebrâil aktif).
+* Nesefî: Bâtıniyye'nin "Kur'an bâtındır, lafızlar değil" görüşü fasittir; i'caz nazımdadır.

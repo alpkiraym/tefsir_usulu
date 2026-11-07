@@ -1,0 +1,128 @@
+# Kur'an'ın Metinleşmesiyle İlgili Faaliyetler
+> Kur'an'ın Resûlullah, Hz. Ebû Bekir ve Hz. Osman dönemlerinde cem'i ile harekeleme ve noktalama faaliyetleri.
+
+## Kur'an'ın cem'i ve tertibi
+- Kur'an'ın cem'i iki manada kullanılır:
+1. **Hıfz (ezberleme):** Hz. Peygamber Kur'an'ı ezberlemeye çok hırslıydı.
+2. **Kitâbet (yazma):** Ayet ve surelerin yazılması.
+### Üç cem'
+| Dönem | Adı | Mahiyeti | Sebebi
+| **A. Resûlullah zamanı** | **Cem-i evvel** | Hıfz ve kitâbet | Vahyin korunması
+| **B. Hz. Ebû Bekir zamanı** | **Cem-i sânî** | Dağınık yazıların tek mushafta toplanması | Yemâme'de kurrânın şehit olması
+| **C. Hz. Osman zamanı** | **Cem-i sâlis** | İstinsah (çoğaltma) | Kıraat ihtilafı
+* Cem': hıfz ve kitâbet. Cem-i evvel (Hz. Peygamber), cem-i sânî (Ebû Bekir), cem-i sâlis (Osman, istinsah).
+
+## A. Resûlullah devrinde cem' (hıfz ve kitâbet)
+### Resûlullah zamanında Kur'an'ın hıfzı
+- Hz. Peygamber kendisine inen vahiyleri ezberlediği gibi vahiy kâtiplerine de mutlaka yazdırmıştır.
+- Buhârî'de geçen **3 hadiste** hâfızların **7** kişi olduğu zikredilir:
+@ عَنْ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ الْعَاصِ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: خُذُوا الْقُرْآنَ مِنْ أَرْبَعَةٍ: مِنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ، وَسَالِمٍ، وَمُعَاذٍ، وَأُبَيِّ بْنِ كَعْبٍ
+@ وَعَنْ قَتَادَةَ قَالَ: سَأَلْتُ أَنَسَ بْنَ مَالِكٍ: مَنْ جَمَعَ الْقُرْآنَ عَلَى عَهْدِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ؟ فَقَالَ: أَرْبَعَةٌ، كُلُّهُمْ مِنَ الْأَنْصَارِ: أُبَيُّ بْنُ كَعْبٍ، وَمُعَاذُ بْنُ جَبَلٍ، وَزَيْدُ بْنُ ثَابِتٍ، وَأَبُو زَيْدٍ
+@ وَرُوِيَ مِنْ طَرِيقِ ثَابِتٍ عَنْ أَنَسٍ قَالَ: مَاتَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَلَمْ يَجْمَعِ الْقُرْآنَ غَيْرُ أَرْبَعَةٍ: أَبُو الدَّرْدَاءِ، وَمُعَاذُ بْنُ جَبَلٍ، وَزَيْدُ بْنُ ثَابِتٍ، وَأَبُو زَيْدٍ
+### Yedi hâfız
+| # | Hâfız
+| 1 | Abdullah b. Mes'ûd
+| 2 | Ebû Huzeyfe'nin âzatlısı Sâlim b. Ma'kıl
+| 3 | Muâz b. Cebel
+| 4 | Übey b. Ka'b
+| 5 | Zeyd b. Sâbit
+| 6 | Ebû Zeyd Kays b. Seken
+| 7 | Ebü'd-Derdâ
+!! Hâfızların yedi kişiyle sınırlandırılması, bunların Kur'an'ın tamamını ezberleyip **Resûlullah'a okumuş (arz etmiş)** kişiler olduğuna yorulmuştur; hâfızlar 7 kişiyle sınırlı değildir. Sahabe büyük şehirlere dağılmış ve Kur'an'ı birbirinden ezberlemiştir. **Bi'r-i Maûne'de öldürülen 70 hâfız** buna delil olarak yeter. Zehebî (Tabakâtü'l-Kurrâ): Bu sayı, Kur'an'ı Hz. Peygamber'e arz eden ve senedleri bize ulaşan kurrâdır; Kur'an'ı cem edip senedi bize ulaşmayanlar ise çoktur.
+### Resûlullah zamanında Kur'an'ın yazılması
+- Resûlullah; Hz. Ali, Muâviye, Übey b. Ka'b ve Zeyd b. Sâbit gibi sahabenin büyüklerinden **vahiy kâtipleri** edinmişti. Ayetler indiğinde yazılmasını emreder, surelerdeki yerini gösterirdi. Böylece satırlardaki kitâbet ile sadırlardaki cem' birbirini destekliyordu.
+- Sahabeden bazıları, Hz. Peygamber emretmediği hâlde ayetleri kendileri için yazıyordu.
+- Yazı malzemeleri: yaprakları sıyrılmış hurma dalları, ince beyaz taşlar, hurma budak başları, kâğıt veya deri parçaları, tahta deve semerleri ve kürek kemikleri.
+- Sahabe kendisindeki Kur'an'ı ezbere veya yazılı olarak Resûlullah'a **arz** ederdi. Ali b. Ebû Tâlib, Muâz b. Cebel, Übey b. Ka'b, Zeyd b. Sâbit ve Abdullah b. Mes'ûd gibi bir grup Kur'an'ın tamamını cem edip arz etmişti. **Zeyd b. Sâbit'in arzı hepsinden sonraydı.**
+- Resûlullah vefat ettiğinde Kur'an genel bir mushafta toplanmış değildi.
+### Kur'an'ın o dönemde tek mushafta toplanmama sebepleri
+1. **Emînü'l-vahy (vahyin güvencesi) olan zat henüz hayattaydı;** Kur'an'ın zarar görme veya kaybolma endişesi yoktu.
+2. **Son ayet ile vefat arasındaki süre** bir rivayete göre 81 gün, çoğunluğa göre **9 gündür.** Bu süre toplamaya yetmezdi; Zeyd b. Sâbit dağınık metinleri ancak **bir yılda** toplayabilmişti.
+3. **Kur'an bir defada inmeyip çeşitli vesilelerle iniyordu;** Hz. Peygamber vahyin ne zaman kesileceğini bilmiyordu. Vahiy devam ederken iki kapak arasında toplamak söz konusu olamazdı.
+4. **Nesih ihtimali:** Bazı âlimlere göre vahiy devam ettikçe bazı ayetlerin neshedilme ihtimali vardı; Kur'an cilt hâline getirilseydi karışıklık doğabilirdi.
+5. **Yazılış sırası iniş sırasına göre değildi;** ayetler Resûlullah'ın gösterdiği yere yazılıyordu. Mushaf toplansaydı her yeni vahiyde mushafı değiştirmek gerekirdi.
+! Hz. Peygamber dönemindeki bu hıfz ve kitâbete **cem-i evvel** denir.
+* Yedi hâfız: İbn Mes'ûd, Sâlim, Muâz, Übey, Zeyd b. Sâbit, Ebû Zeyd, Ebü'd-Derdâ (sayı Peygamber'e arz edenleri gösterir; Bi'r-i Maûne'de 70 hâfız şehit oldu).
+* Tek mushafta toplanmama sebepleri: vahyin güvencesi hayatta · son ayetle vefat arası kısa (9 gün) · vahiy devam ediyordu · nesih ihtimali · yazılış sırası iniş sırasına göre değil.
+
+## B. Hz. Ebû Bekir devrinde cem'
+### Derlemeyi gerektiren sebep
+- Müslümanlar yalancı peygamber Müseylime'ye karşı yapılan **Yemâme savaşında** çok sayıda kurrâ şehit verince Kur'an'ın zayi olmasından korktular. Hz. Ömer'in teklifinden önce çekinen Hz. Ebû Bekir sonunda bu işe koyuldu.
+@ فَقَالَ أَبُو بَكْرٍ: إِنَّ عُمَرَ أَتَانِي فَقَالَ: إِنَّ الْقَتْلَ قَدِ اسْتَحَرَّ بِقُرَّاءِ الْقُرْآنِ، وَإِنِّي أَخْشَى أَنْ يَسْتَحِرَّ الْقَتْلُ بِالْقُرَّاءِ فِي الْمَوَاطِنِ فَيَذْهَبَ كَثِيرٌ مِنَ الْقُرْآنِ، وَإِنِّي أَرَى أَنْ تَأْمُرَ بِجَمْعِ الْقُرْآنِ. فَقُلْتُ لِعُمَرَ: كَيْفَ تَفْعَلُ شَيْئًا لَمْ يَفْعَلْهُ رَسُولُ اللَّهِ؟ قَالَ عُمَرُ: هُوَ وَاللَّهِ خَيْرٌ. فَلَمْ يَزَلْ يُرَاجِعُنِي حَتَّى شَرَحَ اللَّهُ صَدْرِي لِذَلِكَ | Hz. Ebû Bekir: "Resûlullah'ın yapmadığı bir şeyi nasıl yaparsın?" dedim. Ömer "Vallahi bu hayırdır" dedi ve Allah gönlümü buna açana kadar bana başvurmaya devam etti.
+### Görevin Zeyd b. Sâbit'e verilmesi
+- Özel olarak görevlendirilen vahiy kâtiplerinden olması.
+- Zekâsıyla sahabe arasında temayüz etmesi.
+- Resûlullah hayattayken Kur'an'ın tamamını ezberlemesi ve çok düzgün okuması.
+- **Arza-i ahîrede** hazır bulunması.
+- Genç olması; kendisinden isteneni daha rahat yapabilecek olması.
+- Güvenilir olması ve hiçbir suçlamaya maruz kalmaması.
+### Rivayetin yorumlanması; Züşşehâdeteyn
+- Zeyd b. Sâbit, **Tevbe suresinin son iki ayetini** ve **Ahzâb suresinin 23. ayetini** yazılı olarak sadece **Huzeyme**'nin getirdiğini ve ikinci bir şahide gerek görmeden bunları mushafa aldığını belirtmiştir.
+@ وَقَدْ رَاعَى زَيْدُ بْنُ ثَابِتٍ نِهَايَةَ التَّثَبُّتِ، فَكَانَ لَا يَكْتَفِي بِالْحِفْظِ دُونَ الْكِتَابَةِ… وَإِنَّمَا الْمُرَادُ أَنَّهُ لَمْ يَجِدْهَا مَكْتُوبَةً عِنْدَ غَيْرِهِ، وَكَانَ زَيْدٌ يَحْفَظُهَا، وَكَانَ كَثِيرٌ مِنَ الصَّحَابَةِ يَحْفَظُونَهَا | "Tevbe'nin sonunu Huzeyme'den başkasında bulamadım" sözü, ayetin mütevatir olmadığı anlamına gelmez; kastedilen, başkasında **yazılı** bulamamasıdır. Zeyd onu ezbere biliyordu, birçok sahabe de biliyordu; Zeyd hem hıfza hem yazıya dayanıyordu.
+: Züşşehâdeteyn = "Şahitliği iki şahit yerine geçen kimse"; Hz. Peygamber'in Huzeyme'ye verdiği lakap.
+~ Hz. Peygamber'le bir alacaklısı arasında borcun ödenip ödenmediği konusunda anlaşmazlık çıktı. Ödemeyi görmediği hâlde Huzeyme, "Biz seni vahiy gibi daha önemli bir konuda tasdik ediyoruz" diyerek şahitlik etti. Bunun üzerine Resûl-i Ekrem ona **züşşehâdeteyn** lakabını verdi. Zeyd'in tek şahitle yetinmesinin dayanağı budur.
+!! Bu rivayet söz konusu ayetlerin mevsukiyetine halel getirmez: Kur'an sahabenin zihninde mevcuttu, Zeyd b. Sâbit de hâfızdı. Ayrıca cem'de iki şahit şartı ayetle sabit değildir; bu şartı Hz. Ebû Bekir koymuştur.
+?? Zeyd b. Sâbit ve diğer sahabe Kur'an'ı zaten ezberlemişken neden başkalarının şahitliğine başvuruldu? | Mushaf ümmetin ortak kabulüne mazhar olsun, toplumsal mutabakat sağlansın diye iki şahit istenmişti. Hiç kimse "Bende de yazılı metin ve ezber vardı, bana neden başvurulmadı; bendekiler mushafta eksik kalmış olabilir mi?" diye kaygılanmasın diye…
+### Cem' edilen Mushaf'ın özellikleri
+- Derleme en sağlam ilmî usullerle yapılmıştır.
+- Tilaveti mensuh ayetler metne alınmamıştır.
+- Nüshadaki ayetlerin tevatürle intikal ettiğinde ümmetin icmaı vardır.
+- Derlenen Mushaf **yedi harfi içermektedir.**
+- Bu Kur'an'a **Abdullah b. Mes'ûd**'un teklifiyle "**Mushaf**" ismi verilmiştir.
+- Bu nüsha resmiyet kazanmıştır: Hz. Ebû Bekir'den Hz. Ömer'e, ondan **Hz. Hafsa**'ya teslim edilmiş ve Hz. Osman'a ulaşmıştır.
+* Ebû Bekir dönemi: sebep Yemâme'de kurrânın şehadeti; teklif Hz. Ömer'den; görevli Zeyd b. Sâbit (arza-i ahîrede bulunmuş, genç, güvenilir).
+* Huzeyme (züşşehâdeteyn): Tevbe'nin son iki ayeti ve Ahzâb 23 yalnız onda yazılı bulundu. "Mushaf" adı İbn Mes'ûd'un teklifi; nüsha Hafsa'da kaldı.
+
+## C. Hz. Osman zamanında cem' (istinsah)
+- İslam fetihleri genişlemiş, kurrâ büyük şehirlere dağılmıştı. Her şehrin halkı kıraati kendilerine gelen kimseden almıştı; bu yüzden farklı okuyorlardı.
+- **Ermenistan ve Azerbaycan fetihleri** sırasında Iraklılar ile Şamlılar arasında kıraat ihtilafı çıktı: Iraklılar **İbn Mes'ûd**'dan, Şamlılar **Übey b. Ka'b**'dan öğrendikleri gibi okuyor, her biri kendi kıraatinin daha sahih olduğunu iddia ediyordu. Savaşa katılan **Huzeyfe el-Yemânî** gördüklerini Hz. Osman'a anlattı.
+@ أَدْرِكِ الْأُمَّةَ قَبْلَ أَنْ يَخْتَلِفُوا اخْتِلَافَ الْيَهُودِ وَالنَّصَارَى | Huzeyfe: "Yahudi ve Hristiyanlar gibi ihtilafa düşmeden bu ümmete yetiş!"
+- Hz. Osman Hafsa'dan sahifeleri istedi; **Zeyd b. Sâbit, Abdullah b. Zübeyr, Saîd b. Âs ve Abdurrahman b. Hâris b. Hişâm**'a çoğaltmalarını emretti. Kureyşli üç kişiye: "Zeyd ile bir şeyde ihtilaf ederseniz onu Kureyş lehçesiyle yazın; çünkü Kur'an onların diliyle indi" dedi. Çoğaltılan mushaflar her bölgeye gönderildi, bunların dışındaki sahife ve mushafların yakılması emredildi.
+- Sahabe, Ebû Bekir'in cem ettiği ilk Mushaf'ı istinsah etmek ve insanları bir harf üzerinde sabit olan kıraatte birleştirmek hususunda anlaştı.
+### Çoğaltmada esas alınan prensipler
+1. Hz. Ebû Bekir'in derlediği Mushaf esas alınacaktır.
+2. Son arzada kesinleşmiş okuma tarzı yazılacak; Hz. Peygamber'in son arzada okuduğu **bir harf** alınıp **altı harf terk edilecektir.**
+3. Tilaveti neshedilmiş ayetler kaydedilmeyecektir.
+4. Komisyonda lehçe ihtilafı çıkarsa **Kureyş lehçesi** esas alınacaktır.
+5. Farklı tertipte mushaflar vardı; Hz. Osman surelerin yeni bir tertibe tabi tutulmasını emretti.
+6. Tefsir ve açıklama amacıyla kaydedilen özel notlar bu mushaflara yazılmayacaktır.
+~ **Hz. Âişe'nin şahsi nüshasında** Bakara 238: «حَافِظُوا عَلَى الصَّلَوَاتِ وَالصَّلَاةِ الْوُسْطَى صَلَاةِ الْعَصْرِ». **İbn Abbas'ın şahsi nüshasında** Bakara 198: «لَيْسَ عَلَيْكُمْ جُنَاحٌ أَنْ تَبْتَغُوا فَضْلًا مِنْ رَبِّكُمْ فِي مَوَاسِمِ الْحَجِّ». Önceleri hususi nüshalarda yazılı bu kolaylaştırıcı eklemeler yaygınlaştı; "falancanın kıraati şöyleydi" sözleri tefrikaya yol açtı. Hz. Huzeyfe böylece doğabilecek bir tehlikenin önüne geçmiş oldu.
+- Zeyd: Mushafı çoğaltırken Ahzâb'dan Resûlullah'ın okuduğunu işittiğim bir ayeti bulamadım; aradık, Huzeyme b. Sâbit el-Ensârî'de bulduk: «مِنَ الْمُؤْمِنِينَ رِجَالٌ صَدَقُوا مَا عَاهَدُوا اللَّهَ عَلَيْهِ» ve suresine ekledik.
+### Çoğaltma esnasında yapılan faaliyetler
+- Zeyd b. Sâbit başkanlığındaki istinsah heyeti bu görevi **5 yılda** tamamladı.
+- Çoğaltılan nüshaların sayısında ihtilaf vardır; genel kanaat **6 veya 7**'dir.
+- Mushaflar **Kûfe, Basra, Şam, Mekke, Bahreyn ve Yemen**'e gönderildi; bir adedi Medine'de bırakıldı ve buna "**el-Mushafü'l-İmâm**" adı verildi.
+- Her mushafla birlikte o beldenin insanlarına kıraati öğretecek Kur'an muallimleri de gönderildi. Böylece hem kıraatte hem kitâbette birlik sağlandı.
+### Hz. Ebû Bekir'in cem'i ile Hz. Osman'ın cem'i arasındaki fark
+| | Hz. Ebû Bekir | Hz. Osman
+| Sebep | Hâfızların ölümüyle Kur'an'ın kaybolması korkusu | Kıraat vecihlerinde ihtilafın çoğalması
+| Yapılan | Dağınık yazılı sure ve ayetleri tek mushafta, sıralı olarak toplamak | Mushafı yedi harften bir harf üzerinde çoğaltmak
+| Yedi harf | Yedi harfi içine alır | Bir harf; diğer altısı bırakılır
+| Lehçe | | Kureyş lehçesi
+| Sonuç | Tilaveti neshedilmemiş olanla yetinen ilk resmî Mushaf | Müslümanları bir mushaf ve bir lehçe üzerinde birleştirmek
+* Osman dönemi: sebep Ermenistan–Azerbaycan'da Irak (İbn Mes'ûd) ile Şam (Übey) arasında kıraat ihtilafı; haber veren Huzeyfe.
+* Heyet: Zeyd b. Sâbit (başkan), Abdullah b. Zübeyr, Saîd b. Âs, Abdurrahman b. Hâris. 5 yıl; 6–7 nüsha; Medine'deki el-Mushafü'l-İmâm.
+* Fark: Ebû Bekir kaybolma korkusuyla yedi harfi içeren tek mushaf; Osman ihtilaf yüzünden bir harf ve Kureyş lehçesi üzerine çoğaltma.
+
+## Kur'an'a hareke ve nokta konulması
+- İslam'dan önce Arap yazısı basit ve iptidaiydi; nokta ve hareke yoktu. Arap olmayanların Müslüman olmasıyla Kur'an'ın okunuşunda hatalar sıklaştı; sebebi yazıda nokta ve harekenin olmayışıydı.
+~ Osman b. Ebî Şeybe Fil suresindeki «أَلَمْ» edatını hurûf-ı mukattaa gibi "Elif-Lâm-Mîm" diye okudu. Hamza ez-Zeyyât «لَا رَيْبَ فِيهِ» ayetini «لَا زَيْتَ فِيهِ» diye okudu.
+### Harekeleme
+>> **Teklif:** Basra valisi **Ziyâd b. Sümeyye** (ö. 53/673), **Ebü'l-Esved ed-Düelî**'den (ö. 69/688) Arap dilinin ıslahı için bir usul koymasını istedi; Düelî başta reddetti.
+>> **Olay:** Ziyâd bir adamı Düelî'nin yoluna oturtup bir ayeti yanlış okumasını tembihledi. Adam «أَنَّ اللَّهَ بَرِيءٌ مِنَ الْمُشْرِكِينَ وَرَسُولُهُ» ayetinde «رَسُولُهُ» kelimesini **kesreli** okudu (anlam: "Allah müşriklerden ve Resûlü'nden uzaktır" olur).
+>> **Kabul:** Düelî valiye gidip teklifi kabul etti; valinin gönderdiği 30 kadar kâtipten birini seçti.
+>> **Yöntem:** "Mushafı bir eline, farklı renkte boyayı diğerine al. Fetha okuyunca harfin üstüne, kesre okuyunca altına, ötre okuyunca önüne bir nokta koy; tenvin (gunne) yaparsam iki nokta koy."
+! Hareke yerine kullanılan nokta işine **kelime sonlarından** başlandı, çünkü problem kelime sonunda oluyordu. Bu noktalar hareke içindir; bugün harfleri birbirinden ayıran noktalardan farklıdır.
+### Noktalama (i'câm)
+- Hareke problemi tamamen çözmedi; Arap olmayanların benzer harfleri (be, te, se gibi) yanlış okuma tehlikesi sürüyordu.
+- Irak valisi **Haccâc b. Yûsuf**, **Nasr b. Âsım**'dan (bir rivayete göre **Yahyâ b. Ya'mer**'den) tedbir almasını istedi. Böylece **i'câm** denilen noktalama işi yapıldı.
+### Sonraki aşamalar
+| Faaliyet | Kim
+| Bugünkü tarzda harekeleme | **Halîl b. Ahmed** (ö. 175/791)
+| Manayı dikkate alan durak işaretleri | **Muhammed b. Tayfûr es-Secâvendî** (ö. 560), hicri 6. asır
+### Hareke ve nokta karşılaştırması
+| | Hareke (nokta ile) | Nokta (i'câm)
+| Kim | Ebü'l-Esved ed-Düelî | Nasr b. Âsım / Yahyâ b. Ya'mer
+| Talep eden | Ziyâd b. Sümeyye (Basra) | Haccâc b. Yûsuf (Irak)
+| Amaç | İ'rab hatasını önlemek | Benzer harfleri ayırmak
+* Hareke: Ziyâd'ın talebiyle Ebü'l-Esved ed-Düelî (renkli noktalarla). Nokta (i'câm): Haccâc'ın talebiyle Nasr b. Âsım / Yahyâ b. Ya'mer. Bugünkü hareke: Halîl b. Ahmed. Duraklar: Secâvendî.

@@ -8,7 +8,7 @@
 -->
 <style>
 .gab,.gab-sheet,.gab-dim{display:none}
-@media (max-width:760px),(hover:none) and (pointer:coarse){ /* telefon + tablet (dokunmatik); masaüstünde yalnızca imza şeridi */
+@media (max-width:760px),(any-pointer:coarse) and (max-width:1366px){ /* telefon + tablet (dokunmatik ekran, klavye/trackpad bağlı iPad dâhil); masaüstünde yalnızca imza şeridi */
   .sig{display:none!important}
   .gab-off .sig{display:flex!important}
   body{padding-bottom:calc(var(--gab-h,84px) + 10px)!important}

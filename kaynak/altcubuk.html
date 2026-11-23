@@ -93,6 +93,7 @@
     pusula:'<circle cx="12" cy="12" r="9.5"/><path d="M15.6 8.4l-2 5.2-5.2 2 2-5.2z"/><path d="M12 2.5v1.8M12 19.7v1.8M2.5 12h1.8M19.7 12h1.8"/>',
     buyutec:'<circle cx="10" cy="10" r="7"/><path d="M15.2 15.2L21 21"/><path d="M7 8.3h6M7 11.7h4"/>',
     anahtar:'<circle cx="7.5" cy="15.5" r="4.5"/><path d="M10.7 12.3L20 3.5"/><path d="M16.6 6.9l2.6 2.6"/><path d="M14.1 9.4l2 2"/>',
+    yuzuk:'<circle cx="9" cy="14.5" r="5.5"/><circle cx="15" cy="14.5" r="5.5"/><path d="M15 9l-1.8-2.2L15 4.6l1.8 2.2z"/>',
     pasta:'<path d="M11 4a8 8 0 1 0 8 8h-8z"/><path d="M14 2.6A8 8 0 0 1 21.4 10H14z"/>'
   };
   // Yeni ders hazır olunca buraya bir satır eklenir (ana sayfadaki "Programlar" sırasıyla aynı).
@@ -107,7 +108,8 @@
     {k:'inanc',  ad:'Güncel İnanç Problemleri', url:'/guncel_inanc/',      i:'pusula'},
     {k:'tahric', ad:'Tahriç Usulü',           url:'/tahric/',              i:'buyutec'},
     {k:'feraiz', ad:'Feraiz',                 url:'/feraiz/',              i:'pasta'},
-    {k:'hay',    ad:'Hadis Anlam ve Yorum',   url:'/hadis_anlam_ve_yorum/', i:'anahtar'}
+    {k:'hay',    ad:'Hadis Anlam ve Yorum',   url:'/hadis_anlam_ve_yorum/', i:'anahtar'},
+    {k:'ahval',  ad:"Ahvalu'ş-Şahsiyye",      url:'/ahval/',               i:'yuzuk'}
   ];
   var MAIL = 'alpkiraymehmet@gmail.com';
   function rd(k,d){try{var v=localStorage.getItem(k);return v?JSON.parse(v):d}catch(e){return d}}

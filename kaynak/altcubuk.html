@@ -258,6 +258,11 @@
       var c=q===null?'e':(q>=75?'':(q>=50?'o':'z'));
       return '<button class="gab-kr" type="button" data-u="'+esc((o.yer&&o.yer.url)||p.url)+'"><span class="nm"><b>'+esc(p.ad)+'</b><small>'+esc(o.etiket||'')+'</small></span><span class="n">%'+b+'</span><span class="n gab-g '+c+'">'+(q===null?'—':'%'+q)+'</span><span class="gab-bar"><i style="width:'+b+'%"></i></span></button>';
     }).join('');
+    // Kur'ân Meali · kelime testi (ders listesinde değil; varsa Karnem'e ayrı satır olarak eklenir)
+    var ml=all.meal;
+    if(ml){ var_=true; var md=ml.d||0, my=ml.y||0; D+=md; Y+=my; K+=ml.kart||0;
+      var mb=Math.round((ml.bitti||0)*100), mq=md+my?Math.round(md/(md+my)*100):null, mc=mq===null?'e':(mq>=75?'':(mq>=50?'o':'z'));
+      rows+='<button class="gab-kr" type="button" data-u="'+esc((ml.yer&&ml.yer.url)||'/meal/#/test')+'"><span class="nm"><b>Kur\'ân Meali</b><small>'+esc(ml.etiket||'Kelime testi')+'</small></span><span class="n">%'+mb+'</span><span class="n gab-g '+mc+'">'+(mq===null?'—':'%'+mq)+'</span><span class="gab-bar"><i style="width:'+mb+'%"></i></span></button>'; }
     var S=D+Y, P=S?Math.round(D/S*100):null, sr=seri();
     return '<div class="gab-st"><div><b>'+S+'</b><span>soru çözüldü</span></div><div><b>'+(P===null?'—':'%'+P)+'</b><span>doğru</span></div><div><b>'+K+'</b><span>kart biliniyor</span></div></div>'
       + (sr>1 ? '<div class="gab-streak">🔥 '+sr+' gündür aralıksız çalışıyorsunuz</div>' : (sr===1 ? '<div class="gab-streak">🔥 Bugün çalıştınız. Yarın da gelirseniz seri başlar.</div>' : ''))

@@ -208,8 +208,8 @@
     var b=e.target.closest('.gab-b'); if(!b) return;
     var k=b.dataset.k;
     if(k==='ana'){ if(APP==='ana'){ e.preventDefault(); if(openK) close(); scrollTo({top:0,behavior:'smooth'}); } return; }
-    e.preventDefault();
     if(k==='meal'){ if(APP==='meal'){ e.preventDefault(); if(openK) close(); if(window.mlBasa) mlBasa(); } return; }
+    e.preventDefault();
     if(k==='devam'){ devam(); return; }
     if(openK===k) close(); else open(k);
   });

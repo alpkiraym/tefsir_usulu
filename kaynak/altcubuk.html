@@ -3,7 +3,8 @@
   Önceden tek ayar:  <script>window.GA_APP = 'mecelle';</script>   (ana sayfada 'ana')
   Program ilerleme değiştikçe:  gaOzet({bitti:0..1, etiket:'40/99 kâide', d:doğru, y:yanlış, kart:bilinen, yer:{ad:'Kâideler', url:'/mecelle/#kaideler'}, aktif:true})
   Test çözülürken:  gaAltGizle(true) · bitince gaAltGizle(false)
-  Yeni ders hazır olunca yalnızca aşağıdaki GA_PROGS listesine bir satır eklenir.
+  Ders listesi ana sayfa deposundaki araclar/dersler.json'dan okunur (yeni ders hazır olunca yalnızca oraya bir satır eklenir).
+  Okunamazsa (internetsiz) en son okunan liste, o da yoksa aşağıdaki GA_PROGS yedeği kullanılır.
 -->
 <style>
 .gab,.gab-sheet,.gab-dim{display:none}
@@ -117,6 +118,10 @@
   function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
   function svg(n){return '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'+(I[n]||'')+'</svg>'}
   function gun(t){var d=new Date(t);return d.getFullYear()+'-'+('0'+(d.getMonth()+1)).slice(-2)+'-'+('0'+d.getDate()).slice(-2)}
+  // Güncel liste ana sayfadaki araclar/dersler.json'dan gelir; okunamazsa son okunan liste (ga_dersler), o da yoksa yukarıdaki yedek kullanılır.
+  function gaListe(L){ if(!L||!L.length||L.length<GA_PROGS.length) return; var Y=[]; L.forEach(function(p){ if(p&&p.k&&p.url){ if(p.svg) I[p.i||p.k]=p.svg; Y.push({k:p.k,ad:p.ad,url:p.url,i:p.i||p.k}); } }); if(Y.length){ GA_PROGS.length=0; Array.prototype.push.apply(GA_PROGS,Y); } }
+  gaListe(rd('ga_dersler',null));
+  try{ fetch('/araclar/dersler.json',{cache:'no-cache'}).then(function(r){return r.ok?r.json():null}).then(function(L){ if(L&&L.length){ gaListe(L); wr('ga_dersler',L); } }).catch(function(){}); }catch(e){}
 
   /* ---- programların kullandığı işlevler ---- */
   window.gaOzet = function(o){
